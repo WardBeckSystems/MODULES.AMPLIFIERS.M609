@@ -1,0 +1,229 @@
+{
+ "code": "M609",
+ "connector": "RTO-144",
+ "type": "Remote sensitivity and DA",
+ "series": null,
+ "contacts": "16 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-002 - STATION TECHNICAL INSULATED GROUND GROUND BAR MULTIPLE UNIT.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "INPUT SHIELD",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+   "page": 17
+  },
+  {
+   "pin": "16",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+   "page": 20
+  },
+  {
+   "pin": "Z",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+   "page": 20
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+  "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - INDICATOR DRIVER.jpg",
+  "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg",
+  "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 609-02-002 - STATION TECHNICAL INSULATED GROUND GROUND BAR MULTIPLE UNIT.jpg"
+ ]
+}
