@@ -22,7 +22,7 @@ Wiki page: [M609](../../../../PAGES/M609.md)
 - **Words (OCR):** 42 in 38 lines: Pz-8 · InPuT · aBm To aBm · NOMiNAL · aBm MaXIMUM · Jok · Pz-16 · InPUT ShIELD Pz-7 · F201 · 0.254 · Tzo1 · Pi-7
 - **Wiring (first pass):** 53 connected wire groups from 175 runs; labelled ends: 333 mm → Pz-8, Pz-16; 159 mm → Pz-1; 149 mm → Pz-I0; 63 mm → Pi-16; 57 mm → Tzo1, J0-21-2
 
-Every curve, box, word and wire group: [1983 - M609 - 609-02-001 - INDICATOR DRIVER (traced).json](../SCHEMATICS/1983%20-%20M609%20-%20609-02-001%20-%20INDICATOR%20DRIVER%20(traced).json) (the CAD file: `1983 - M609 - 609-02-001 - INDICATOR DRIVER (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - 609-02-001 - INDICATOR DRIVER (traced).json](../SCHEMATICS/1983%20-%20M609%20-%20609-02-001%20-%20INDICATOR%20DRIVER%20%28traced%29.json) (the CAD file: `1983 - M609 - 609-02-001 - INDICATOR DRIVER (traced).dxf`).
 
 ## Full text
 

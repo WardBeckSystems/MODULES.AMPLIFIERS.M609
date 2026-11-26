@@ -33,7 +33,7 @@ M609 audio distribution amplifier schematic, cropped.
 - **Title block:** (197, 46)–(324, 71) mm: WARD-BECK SYSTEMS · WBS · M609
 - **Wiring (first pass):** 28 connected wire groups from 108 runs; labelled ends: 247 mm → Pz-14; 52 mm → PI-IO; 51 mm → Pz-6; 50 mm → Pz-14; 49 mm → Pz-9 CHAssIS
 
-Every curve, box, word and wire group: [19xx - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20609-02-001%20-%20REMOTE%20SENSITIVITY%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20609-02-001%20-%20REMOTE%20SENSITIVITY%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -18,7 +18,7 @@ Wiki page: [M609](../../../../PAGES/M609.md)
 - **Outlines:** line 72 rings, 514 straight (637 mm) / 105 curved (94.0 mm); text 128 rings, 1,147 straight (1,268 mm) / 351 curved (416 mm)
 - **Words (OCR):** 10 in 9 lines: WES · WARD-BECX SYSTEMS · SA 14-066A · OuTPut SPLITTER · NETWORKS · LAYOUT · COMPONENT · 14-066-06-002 · ISS.1
 
-Every curve, box, word and wire group: [1983 - M609 - 14-066-06-002 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT (traced).json](../SCHEMATICS/1983%20-%20M609%20-%2014-066-06-002%20-%20OUTPUT%20SPLITTER%20NETWORKS%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1983 - M609 - 14-066-06-002 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - 14-066-06-002 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT (traced).json](../SCHEMATICS/1983%20-%20M609%20-%2014-066-06-002%20-%20OUTPUT%20SPLITTER%20NETWORKS%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1983 - M609 - 14-066-06-002 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

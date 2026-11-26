@@ -23,7 +23,7 @@ Wiki page: [M609](../../../../PAGES/M609.md)
 - **Title block:** (206, 50)–(332, 75) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 61 connected wire groups from 396 runs; labelled ends: 490 mm → Czz, Jy/1O, RJZ, J9K; 301 mm → CZJ, Cz5, Cz6, I50; 279 mm → IOOo, Rz6, ISk, c16; 177 mm → R61, I50, Rso, CjO; 124 mm → 22K, Czo, 220, Rj9
 
-Every curve, box, word and wire group: [1983 - M609 - 14-101-02-001 - LAST COMPONENT DESIGNAT IONS ATTI (traced).json](../SCHEMATICS/1983%20-%20M609%20-%2014-101-02-001%20-%20LAST%20COMPONENT%20DESIGNAT%20IONS%20ATTI%20(traced).json) (the CAD file: `1983 - M609 - 14-101-02-001 - LAST COMPONENT DESIGNAT IONS ATTI (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - 14-101-02-001 - LAST COMPONENT DESIGNAT IONS ATTI (traced).json](../SCHEMATICS/1983%20-%20M609%20-%2014-101-02-001%20-%20LAST%20COMPONENT%20DESIGNAT%20IONS%20ATTI%20%28traced%29.json) (the CAD file: `1983 - M609 - 14-101-02-001 - LAST COMPONENT DESIGNAT IONS ATTI (traced).dxf`).
 
 ## Full text
 

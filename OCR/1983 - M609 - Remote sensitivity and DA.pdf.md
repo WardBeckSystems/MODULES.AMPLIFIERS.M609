@@ -22,7 +22,7 @@ Wiki page: [M609](../../../../PAGES/M609.md)
 - **Words (OCR):** 20 in 10 lines: WARD-BECK SYSTEMS LTD_ · WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550 · SCAABOAOUGH; ONTAPIO M1h2*4 · Telex' 065-25399 · M6o9 · REMOTE SENSITIVITY · AUDIO · DISTRIBUTION AMPLIFIER · MANUAL ISSUE · NOVEMBER 1985
 - **Title block:** (114, 54)–(264, 424) mm: WARD-BECK SYSTEMS LTD_ · WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550 · SCAABOAOUGH; ONTAPIO M1h2*4 · Telex' 065-25399 · M6o9 · REMOTE SENSITIVITY · DISTRIBUTION AMPLIFIER · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p1 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p1%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p1 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p1%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 102 in 76 lines: WAAD-BECK SYSTeMS LTD; · IABLE · OF CONTENIS · M6o9 REMOTE SENSiTiVity · AUD /0 DiStRibuTION AMPLIFIER · SECTION · PAGE · Warranty · Main_Frame · Technical Data · I-1 · t0
 - **Title block:** (27, 225)–(178, 432) mm: WAAD-BECK SYSTeMS LTD; · IABLE · M6o9 REMOTE SENSiTiVity · SECTION · Warranty · Main_Frame · Technical Data · General · Installation · Parts List · PI,P2 · Connector · Drawings: · Functional · Schemat
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p2 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p2%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p2 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p2%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 40 rings, 648 straight (2,936 mm) / 69 curved (106 mm); text 47 rings, 413 straight (569 mm) / 114 curved (183 mm)
 - **Words (OCR):** 5 in 4 lines: WAAD-BECK SYSTEMS LTD; · SECTION · MAIN · FRAME
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p3 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p3%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p3 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p3%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1
 - **Words (OCR):** 167 in 85 lines: LTD; · TECHNICAL DATA · M6og · REMOTE SENSiTiViTY AUDI0 DISTR · BuTION · AMPLLFIER · Gain: · +30 to · -30 · dB continuously variable_ · Frequency Response: · 0.2 dB 20 Hz 20 kHz .
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p4 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p4%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p4 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p4 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p4%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p4 (traced).dxf`).
 
 ### Page 5
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 48 rings, 934 straight (3,477 mm) / 122 curved (189 mm); text 523 rings, 3,903 straight (4,449 mm) / 1,096 curved (1,741 mm)
 - **Words (OCR):** 76 in 40 lines: WAAD-BECK systems LTD · TECHNICAL · DATA · M6o9 REMOTE SENSITIVITY · AUD I0 DSTRIBUT ION AMPLIFIER · Control : · wire, up · to · 1000 feet with · SK linear · potentiometer as · the
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p5 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p5%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p5 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p5 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p5%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p5 (traced).dxf`).
 
 ### Page 6
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 1
 - **Words (OCR):** 370 in 160 lines: WAAD-BECK SySTeMs LTD; · GENERAL · AMPL IFIER · M6o9 REMOTE SENSiTiViTY AUDIO DISTRIBUT ION · The · M6og · Remote Sensitivity Audio Distribution · Amplifier is an ac · powered · modular plug-in · unit · designed t0
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p6 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p6%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p6 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p6 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p6%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p6 (traced).dxf`).
 
 ### Page 7
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 110 in 47 lines: WAAD-BECK Systems LTD_ · GENERAL · M6og REMOTE · AUD /0 DISTRIBUTION AMPLIFIER · The · active circuit elements are · contained on · subsidiary plug-in · printed circuit cards · providing the maximum in · service · flexibility
 - **Title block:** (27, 261)–(136, 428) mm: WAAD-BECK Systems LTD_ · M6og REMOTE · The · active circuit elements are · printed circuit cards · and convenient unit · configuration results in · mounting · frame and module assure · natural convect
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p7 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p7%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p7 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p7 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p7%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p7 (traced).dxf`).
 
 ### Page 8
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 387 in 175 lines: WAAD-BECK SYSTEMs LTD; · INSTALLATION · M6o9 REMOTE SenSiTiViTY AUD I0 DISTR BUTION AMPLIFIER · The · M6o9 Plugs directly into the · WBS MF6 series of · mounting frame, · which may · be installed in · standard EIA ninteen inch · equipment · rack . The MF6
 - **Title block:** (26, 125)–(203, 431) mm: WAAD-BECK SYSTEMs LTD; · INSTALLATION · M6o9 REMOTE SenSiTiViTY AUD I0 DISTR BUTION AMPLIFIER · The · M6o9 Plugs directly into the · WBS MF6 series of · which may · be installed in · rack . The MF6 · 
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p8 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p8%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p8 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p8 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p8%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p8 (traced).dxf`).
 
 ### Page 9
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 3
 - **Words (OCR):** 106 in 48 lines: WAAD-BECK SYSTems LTD · INSTALLATION · M6o9 · REMOTE SENSITiViTY AUD/0 DISTRIBUT ION · AMPLIFIER · If the remote · control · Iine is · left open · the · amplifier gain wili g0 to · minimum (less than -30
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p9 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p9%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p9 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p9 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p9%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p9 (traced).dxf`).
 
 ### Page 10
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 56 rings, 1,431 straight (4,704 mm) / 181 curved (281 mm); text 416 rings, 3,096 straight (3,664 mm) / 873 curved (1,396 mm)
 - **Words (OCR):** 63 in 32 lines: WAAD-BECK SYSTems LTD. · INSTALLATION · M6og · REMOTE SENSTiViTY AUDi0 DISTRIBUT ION AMPLIFIER · Shown below is · chart of control · voltage versus · gain measured between · P2-2 and P2-10 at · the · module connector · GAIN
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p10 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p10%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p10 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p10 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p10%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p10 (traced).dxf`).
 
 ### Page 11
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 101 in 68 lines: WAAD-BECK systems LTD; · PARTS LisT · M6o9 · REMOTE SENsiTiViTY AUDI0 DiStR · BuT ION · AMPLIFIER · PART · DESCRiPTION · MFG · MFG PART NUMBER · 0S201 · Local
 - **Title block:** (25, 174)–(250, 432) mm: WAAD-BECK systems LTD; · PARTS LisT · M6o9 · REMOTE SENsiTiViTY AUDI0 DiStR · BuT ION · PART · DESCRiPTION · MFG · 0S201 · Local · LED, Yellow · A.P . · HLMP 1401 · F201 · Fuse 0.25A SB · Buss · MDL ·
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p11 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p11%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p11 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p11 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p11%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p11 (traced).dxf`).
 
 ### Page 12
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 94 in 63 lines: WAAD-BECK SYSTems LTD; · PARIS LIST · M6og REMOTE SENSiTiViTY AUDI0 DISTRIBUT ION AMPLIFIER · MiSCELLANEQUS COMPONENTS · USED ON · DESCRIPTION · MFG · MFG PART · NUMBER · Elma · R2o1 · Loc/Rem Switch and
 - **Title block:** (26, 49)–(253, 429) mm: WAAD-BECK SYSTems LTD; · PARIS LIST · M6og REMOTE SENSiTiViTY AUDI0 DISTRIBUT ION AMPLIFIER · MiSCELLANEQUS COMPONENTS · USED ON · DESCRIPTION · MFG · MFG PART · Elma · R2o1 · Loc/Rem Switch and · 021
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p12 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p12%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p12 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p12 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p12%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p12 (traced).dxf`).
 
 ### Page 13
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 75 in 56 lines: WAAO-BECK SYSTEms LTD_ · PI · AND P2 CONNECTOR LAYOUTS · M6o9 REMOTE SENSiTiViTY AUDIO DISTRibutiON · AMPLIFIER · CHASSIS · 08 · 0161 · 90 · 1 0 · 115v AC · 50/60 Hz
 - **Title block:** (26, 408)–(136, 432) mm: WAAO-BECK SYSTEms LTD_
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p13 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p13%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p13 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p13 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p13%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p13 (traced).dxf`).
 
 ### Page 14
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 2
 - **Words (OCR):** 31 in 25 lines: INPUT · To +8dBm · 22dBm · PRE · M208 · 30k ohms · out · ATTENUATOR · LOc SENS · REMOTE · +30/_ 30dB · SENSITiViTY
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p14 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p14%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p14 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p14 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p14%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Title block:** (199, 46)–(326, 72) mm: WARD-BECK SYSTEMS · WBS · M609
 - **Wiring (first pass):** 53 connected wire groups from 98 runs; labelled ends: 387 mm → (~6d8), (~6dB), out, (~SdB); 56 mm → (~6d8), (~6dB); 49 mm → (~6d8), (~SdB); 48 mm → (~6d8); 48 mm → (~6dB), (~6d8)
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p15 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p15%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p15 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p15 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p15%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 3
 - **Words (OCR):** 38 in 34 lines: PZ-8 · INPuT · JBm · NOMImal · aBm · dBm MAXIMUM · Zok onm · Pz-16 · INpuT ShIELD Pz-7 · Fz01 · 0.254 · Tzoi
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p16 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p16%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p16 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p16 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p16%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p16 (traced).dxf`).
 
 ### Page 17
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Title block:** (197, 46)–(324, 71) mm: WBS · WARD-BECK SYSTEMS · M609
 - **Wiring (first pass):** 31 connected wire groups from 98 runs; labelled ends: 246 mm → Pz-14; 52 mm → 21-2; 50 mm → Pz-6; 40 mm → P2-9; 29 mm → PI-IO
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p17 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p17%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p17 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p17 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p17%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p17 (traced).dxf`).
 
 ### Page 18
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 1
 - **Words (OCR):** 18 in 18 lines: SA14-0664 · R7 · C6 · R12 · SAI4-066B · R23 · SA14-066C · R3I · R49 · M208 · SA14-101 · TPI
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p18 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p18%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p18 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p18 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p18%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p18 (traced).dxf`).
 
 ### Page 19
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 26 in 24 lines: R12 · R23 · R31 · R49 · T201 · 7609 · Rzo1 · 'SENS / · Loc _ · Loc/rem · NORM Koc · DC
 - **Title block:** (199, 46)–(325, 72) mm: WBS · WARD-BECK SYSTEMS · M60 9
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p19 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p19%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p19 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p19 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p19%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p19 (traced).dxf`).
 
 ### Page 20
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 86; named: P2-16; Pz-16; P2-16; Pz_16; Pz-16
 - **Words (OCR):** 99 in 91 lines: MuLTIPLE UnIT · WIRING · ITAIN · MOUNTING _FRAME · REMOTE · NC · P2-2 · CONTROL · (SK LINEAR) · Pz-10 · P2-8 · INPUT
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p20 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p20%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p20 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p20 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p20%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p20 (traced).dxf`).
 
 ### Page 21
 
@@ -238,7 +238,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Title block:** (199, 14)–(326, 71) mm: WBS · WARD-BECK SYSTEMS · M609 · REMOTE SENSITIVITY · AUDIO DISTRIBUTION AMPLIFIER · SYSTEMS WIRING · ISS.1 · 609-02-002
 - **Wiring (first pass):** 70 connected wire groups from 258 runs; labelled ends: 455 mm → P1-16, A3; 412 mm → Pi-7, P1-16, P1-7; 274 mm → AL, P1-7; 254 mm → A2, Pi-7; 252 mm → A5 outputs, A5, P1-7
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p21 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p21%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p21 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p21 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p21%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p21 (traced).dxf`).
 
 ### Page 22
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 35 rings, 592 straight (2,908 mm) / 56 curved (84.8 mm); text 65 rings, 608 straight (796 mm) / 146 curved (247 mm)
 - **Words (OCR):** 6 in 3 lines: WAAD-BECK SySTEMS LTD; · SECTION · MODULES AND SUB-ASSEMBL IES
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p22 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p22%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p22 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p22 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p22%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p22 (traced).dxf`).
 
 ### Page 23
 
@@ -257,7 +257,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 10 in 5 lines: WAAD-BECK Systems LTD_ · SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER · Issue #2 · June · 1986
 - **Title block:** (25, 48)–(284, 432) mm: WAAD-BECK Systems LTD_ · SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER · Issue #2
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p23 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p23%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p23 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p23 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p23%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p23 (traced).dxf`).
 
 ### Page 24
 
@@ -269,7 +269,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 338 in 170 lines: WARD-BECK SYSTEMS LTD; · CIRcUIT DESCRIPTION · SA1L-101 AUDIO DISTRIBUT ION · AMPLIFIER · Input · The · audio input to · SA1L-101 · Amplifier Assembly appears at · pins · the · and
 - **Title block:** (23, 254)–(132, 432) mm: WARD-BECK SYSTEMS LTD; · Input · The · audio input to · the · and · of the · input impedance of the · limit · ing diodes which · voltage levels . Integrated · associated components make up · ATTI the 
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p24 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p24%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p24 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p24 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p24%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p24 (traced).dxf`).
 
 ### Page 25
 
@@ -278,7 +278,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 41 rings, 1,014 straight (3,510 mm) / 136 curved (213 mm); text 1,823 rings, 12,770 straight (14,359 mm) / 4,012 curved (6,252 mm)
 - **Words (OCR):** 284 in 132 lines: WAAD-BECK SYSTems LTD · CIRcuiT DESCRIPTION · SA14-1O1 · AUDI0 DiSTRiBuTION · AMPL IFIER · Outeut · The actively · balanced power · output stage · is made up · of two · amplifiers. Integrated circuit
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p25 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p25%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p25 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p25 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p25%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p25 (traced).dxf`).
 
 ### Page 26
 
@@ -287,7 +287,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 173 rings, 1,328 straight (4,566 mm) / 277 curved (419 mm); text 1,169 rings, 9,468 straight (10,971 mm) / 2,937 curved (4,758 mm)
 - **Words (OCR):** 170 in 152 lines: WAAD-BECK SYsTems LTD · PARTS List · SAI4-101 AUDI0 DISTRIBUT ION · AMPL IFIER · PART DESCRIPTION · MFG · MFG PART · NUMBER · ci · Capacitor · 220 · uF/10
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p26 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p26%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p26 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p26 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p26%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p26 (traced).dxf`).
 
 ### Page 27
 
@@ -296,7 +296,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 209 rings, 1,565 straight (4,354 mm) / 330 curved (492 mm); text 757 rings, 5,834 straight (6,846 mm) / 1,740 curved (2,751 mm)
 - **Words (OCR):** 133 in 112 lines: WAAD-BECK Systems LTD_ · PARTS LiST · SA14-101 AUD 0 DISTR IBUT ION AMPLIFIER · PART DESCRIPT ION · MFG · MFG PART NUMBER · CRI · Diode · Fairchild · IN4148 · CR2 · CR3
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p27 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p27%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p27 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p27 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p27%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p27 (traced).dxf`).
 
 ### Page 28
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 114 in 99 lines: WAAD-BECK Systems LTD_ · PARTS List · SA14-101 AUDI0 DISTRIBUT ION AMPL IFIER · PART DESCRIPTION · MFG · MFG · PART NUMBER · R3I · Potentiometer · s0k · Piher · Ptioh
 - **Title block:** (25, 409)–(134, 432) mm: WAAD-BECK Systems LTD_
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p28 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p28%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p28 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p28 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p28%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p28 (traced).dxf`).
 
 ### Page 29
 
@@ -316,7 +316,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 115 in 87 lines: WAAD-BECK Systems LTD_ · PARTS · LISt · SA44-101 AUDI0 diSTRiBUT ION · AMPL IFIER · PART · DESCRIPT ION · MFG · MFG PART NUMBER · R66 · Resistor · 1/4w
 - **Title block:** (20, 37)–(203, 429) mm: WAAD-BECK Systems LTD_ · PARTS · LISt · SA44-101 AUDI0 diSTRiBUT ION · PART · DESCRIPT ION · MFG · R66 · Resistor · 1/4w · 3k32 · Philips · R67 · 243 · R68 · 243 · R69 · 1/4w  5% 22k · R70 · 22k · 01 
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p29 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p29%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p29 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p29 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p29%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p29 (traced).dxf`).
 
 ### Page 30
 
@@ -326,7 +326,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 6; named: Cri CrJ 1MAIL9 crl crz IN4149; ATti; LhjizZ; LMjJ7LZ
 - **Words (OCR):** 93 in 88 lines: 12KI · 220/10 · 220/10 · Cri · CrJ · 1MAIL9 · Dif · 10/25 · INPuT · 2-180 · B4A5 · ISk
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p30 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p30%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p30 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p30 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p30%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p30 (traced).dxf`).
 
 ### Page 31
 
@@ -339,7 +339,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 119 in 109 lines: R54 · Gk8 · Rs} · IOM · TN4OJ6 · Iocp · 620 · PNJ569 · IP298 · R5i · L47 · A4a
 - **Wiring (first pass):** 67 connected wire groups from 446 runs; labelled ends: 304 mm → Iocp, A4a, 15p, RIsO; 276 mm → RaJ, 2.2, Tzw, RJZ; 254 mm → ICOo, 326, C16, 407; 181 mm → 2.2, Vzw, RIsO, C3o; 122 mm → Czo, 220, Rj9, PNJ369
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p31 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p31%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p31 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p31 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p31%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p31 (traced).dxf`).
 
 ### Page 32
 
@@ -351,7 +351,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 1
 - **Words (OCR):** 87 in 78 lines: Re 2K+3 · LF DIF · BIAS · GAIN SET · OFF SET · OFF   SET · R7 Sk · R12 SK · Rzz sool · PN5569 · 22 · 353658
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p32 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p32%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p32 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p32 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p32%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p32 (traced).dxf`).
 
 ### Page 33
 
@@ -363,7 +363,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 63 in 47 lines: TPI · OFF SET · R49 sokl · PN5569 · R53658 · 22 R60 · ISP_ · Saik Tn403s · A52 · 75523 22 Vz" · R61 · CSI
 - **Title block:** (6, 179)–(174, 242) mm: 0. 022 · 470/40 · 470/40 · 032 · PNS56? · Q10 · C28)22/35 4R44 · R62 22 · WBS · 22p · CANADA · 42P22p5 ISK PN3E69 ~R59 · 3378 c2! · R55- · 0. 022 · 22 R41 · Iw · 201 · 3362 Tn405s R38- · 22 R45 · 22 R
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p33 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p33%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p33 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p33 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p33%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p33 (traced).dxf`).
 
 ### Page 34
 
@@ -373,7 +373,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1
 - **Words (OCR):** 7 in 5 lines: SA8-117 IND ICATOR · DRIVER · ASSEMBLY · ISSUE · JUNE 1983 _
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p34 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p34%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p34 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p34 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p34%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p34 (traced).dxf`).
 
 ### Page 35
 
@@ -383,7 +383,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 1
 - **Words (OCR):** 234 in 114 lines: WAAD-BECK SYSTEMs LTD. · CIRcuIT DESCRIPTION · SA8-117 IND ICATOR DRIVER ASSEMBLY · Three LED indicators are · provided at · the Tront of the · SA8-117 · Indicator Driver · Assembly · DSI · (yellow) monitors the · +/-32 volt
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p35 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p35%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p35 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p35 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p35%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p35 (traced).dxf`).
 
 ### Page 36
 
@@ -393,7 +393,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1
 - **Words (OCR):** 123 in 101 lines: PARTS LiST · SA8-117 INDICATOR DRIVER ASSEMBLY · PART DESCRIPTION · MFG · MFG PART NUMBER · C1o1 · Capacitor · uF/35 · Kemet · T390B105MO3SAS · C102 · uF/35
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p36 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p36%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p36 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p36 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p36%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p36 (traced).dxf`).
 
 ### Page 37
 
@@ -403,7 +403,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1
 - **Words (OCR):** 35 in 34 lines: Rioi · RIO5 · 3kS · 0102 · RIIO · RI2 · PN3645 · IkB · 052 · DSJ · PN3645 · 0101
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p37 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p37%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p37 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p37 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p37%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p37 (traced).dxf`).
 
 ### Page 38
 
@@ -416,7 +416,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Title block:** (215, 40)–(338, 64) mm: WBS · WARD-BECk BySTEMB
 - **Wiring (first pass):** 21 connected wire groups from 134 runs; labelled ends: 162 mm → 47k; 102 mm → RIS, 1ok, RII4; 77 mm → R116, 22k; 70 mm → R116, 22k; 66 mm → RIS, 1ok
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p38 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p38%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p38 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p38 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p38%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p38 (traced).dxf`).
 
 ### Page 39
 
@@ -427,7 +427,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 2; named: u101 LM1458
 - **Words (OCR):** 66 in 50 lines: NOTES: · oC · TRANSISTORS 0101 · 0102 ARE · PN3646 _ · Rio1 · 1k 3W · 8 - 117 · DIODES CR1O2 To CR · 1K3W OE · R102 · ARE 1N4148 _
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p39 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p39%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p39 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p39 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p39%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p39 (traced).dxf`).
 
 ### Page 40
 
@@ -437,7 +437,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 39 in 29 lines: NOTES: · TRANSISTORS 0101 AND · 0102 ARE · PN3646 _ · DIODES CR102 · To CR1OS · OE · ARE 1N4148 _ · Q1o1 · 7 7KS · 1K8 · 18
 - **Title block:** (214, 42)–(338, 67) mm: WBS · WARD-BECK ByBTEMB
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p40 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p40%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p40 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p40 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p40%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p40 (traced).dxf`).
 
 ### Page 41
 
@@ -447,7 +447,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 9 in 5 lines: WARD-BECK SYSTEMS LTD_ · SA14-O66A/B/C output · SPLITTER NETWORK ASSEMBL IES · ISSUE · NOVEMBER 1985 .
 - **Title block:** (21, 49)–(249, 432) mm: WARD-BECK SYSTEMS LTD_ · SA14-O66A/B/C output · SPLITTER NETWORK ASSEMBL IES · ISSUE
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p41 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p41%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p41 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p41 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p41%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p41 (traced).dxf`).
 
 ### Page 42
 
@@ -457,7 +457,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 43 in 27 lines: WAAD-BECK SYSTEms LTD · PARTS LiST · SAI4-O66A/B/C output SPLiTTER · NETWORK ASSEMBLIES · PART · DESCRIPTION · MFG · MFG PART NUMBER · RI · Resistor · 1/2w · 59 300
 - **Title block:** (27, 59)–(136, 432) mm: WAAD-BECK SYSTEms LTD · SAI4-O66A/B/C output SPLiTTER · PART · DESCRIPTION · RI · Resistor · 1/2w · R2 · R3 · R4 · WBS recommends the use · manufacturers for
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p42 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p42%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p42 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p42 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p42%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p42 (traced).dxf`).
 
 ### Page 43
 
@@ -467,7 +467,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Dots (junctions):** 2
 - **Words (OCR):** 39 in 27 lines: NOTES: · ALL · RESISTORS ARE 1/2w 57 _ · LAST COMPONENT · DESIGNATION: R4 _ · SA1L-O66A USES COMPONENT · LAYoUT · B14-06E · COMPONENT LAYOUT B14-06E · SA14-0663 USES · SA14-066C · USES COMPONENT LAYOUT B14-06
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p43 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p43%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p43 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p43 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p43%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p43 (traced).dxf`).
 
 ### Page 44
 
@@ -478,7 +478,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 37 in 24 lines: NOTES: · ALL · RESISTORS ARE 1/2w 57 _ · LAST · COMPONENT DESIGNAT ION : R4_ · SA1L-O66A uSES COMPONENT · LAYoUT · B14-066-06-002 _ · SA1L-0658 USES · COMPONENT · LAYOUT B14-066-06-003. · SA1L-O66C uSES COMPONENT
 - **Title block:** (199, 54)–(326, 79) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p44 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p44%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p44 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p44 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p44%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p44 (traced).dxf`).
 
 ### Page 45
 
@@ -488,7 +488,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1; named: 300 RI 1/2w 300 R2 1/2w 300 R3 1/2w 300 
 - **Words (OCR):** 17 in 14 lines: 300 · RI · 1/2w · 300 R2 · 1/2w · 300 · R3 · 1/2w · 300 RL · 1/2w · WES · OUTPut SF
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p45 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p45%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p45 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p45 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p45%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p45 (traced).dxf`).
 
 ### Page 46
 
@@ -498,7 +498,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 8 in 8 lines: WBS · WAAD-BECK SYSTEMS · SA 14-066A · output SPLITTER NETWORKS · LAYOUT · COMPONENT · 14-066-06-002 · ISS.1
 - **Title block:** (206, 52)–(331, 77) mm: WBS · WAAD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p46 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p46%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p46 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p46 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p46%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p46 (traced).dxf`).
 
 ### Page 47
 
@@ -508,7 +508,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1; named: 300 R1 1/2w 300 R2 1/2w 300 R3 1/2w 300 
 - **Words (OCR):** 12 in 11 lines: 300 · R1 · 1/2w · 300 · R2 · 1/2w · 300 · R3 · 1/2w · 300 R4 · 1/2w
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p47 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p47%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p47 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p47 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p47%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p47 (traced).dxf`).
 
 ### Page 48
 
@@ -518,7 +518,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Words (OCR):** 8 in 7 lines: WBS WARD-BECX BYSTEMS · SA 14-066B · output SPLITTER NETWORKS · COMPONENT · LAYOUT · 14-066-06-003 · ISS.1
 - **Title block:** (213, 50)–(338, 76) mm: WBS WARD-BECX BYSTEMS
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p48 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p48%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p48 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p48 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p48%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p48 (traced).dxf`).
 
 ### Page 49
 
@@ -528,7 +528,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Closed boxes:** 1; named: 300 R1 1/2w 300 R2 1/2w 300 R3 1/2w 300 
 - **Words (OCR):** 17 in 13 lines: 300 · R1 1/2w · 300 R2 · 1/2w · R3 · 300 · 1/2w · 300 R4 · 1/2w · WBS · OUTPUT SP · COMpo
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p49 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p49%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p49 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p49 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p49%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p49 (traced).dxf`).
 
 ### Page 50
 
@@ -537,7 +537,7 @@ Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA 
 - **Outlines:** line 54 rings, 464 straight (656 mm) / 93 curved (91.6 mm); text 121 rings, 1,168 straight (1,350 mm) / 345 curved (432 mm)
 - **Words (OCR):** 7 in 7 lines: WES · WARD-BECK SYSTEMS · SA14-066C · OUTPUt SPLITTER NETWORKS · COMPONENT LAYOUT · 14-066-06-004 · ISS.1
 
-Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p50 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p50%20(traced).json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p50 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - Remote sensitivity and DA p50 (traced).json](../MANUALS/1983%20-%20M609%20-%20Remote%20sensitivity%20and%20DA%20p50%20%28traced%29.json) (the CAD file: `1983 - M609 - Remote sensitivity and DA p50 (traced).dxf`).
 
 ## Full text
 

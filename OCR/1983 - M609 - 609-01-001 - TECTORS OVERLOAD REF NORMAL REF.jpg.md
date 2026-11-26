@@ -22,7 +22,7 @@ Wiki page: [M609](../../../../PAGES/M609.md)
 - **Words (OCR):** 30 in 25 lines: INPUT · ~22dBm · To +8dBm · PRE · M208 · 30k ohms · out · ATTENUATOR · LOC SENS · +30/-30dB · REMOTE · SENSITiViTY
 - **Wiring (first pass):** 71 connected wire groups from 124 runs; labelled ends: 266 mm → out; 164 mm → PRE, ATTENUATOR; 146 mm → 3i8, AC, Hz .; 95 mm → +8dBm, PRE; 74 mm → SENSITiViTY
 
-Every curve, box, word and wire group: [1983 - M609 - 609-01-001 - TECTORS OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1983%20-%20M609%20-%20609-01-001%20-%20TECTORS%20OVERLOAD%20REF%20NORMAL%20REF%20(traced).json) (the CAD file: `1983 - M609 - 609-01-001 - TECTORS OVERLOAD REF NORMAL REF (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M609 - 609-01-001 - TECTORS OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1983%20-%20M609%20-%20609-01-001%20-%20TECTORS%20OVERLOAD%20REF%20NORMAL%20REF%20%28traced%29.json) (the CAD file: `1983 - M609 - 609-01-001 - TECTORS OVERLOAD REF NORMAL REF (traced).dxf`).
 
 ## Full text
 
