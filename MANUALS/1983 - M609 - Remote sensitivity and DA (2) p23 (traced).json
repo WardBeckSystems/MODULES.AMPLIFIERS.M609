@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 317.6, 428.6],
+ "outlines": {
+  "line": {"rings": 98, "straight": {"n": 1299, "mm": 3800.0}, "curved": {"n": 209, "mm": 364.9}},
+  "text": {"rings": 42, "straight": {"n": 322, "mm": 436.2}, "curved": {"n": 66, "mm": 110.4}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [62.0, 417.6, 66.9, 422.1], "w": 5.0, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [31.5, 415.8, 50.1, 421.1], "text": "WAFI"},
+   {"mm": [71.9, 415.8, 143.6, 421.1], "text": "CK SYS TE MS LTO"},
+   {"mm": [101.0, 233.8, 241.2, 239.1], "text": "SAI4-101 AUDIO OISTRIBUTlON AMPLIFIER"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 0–429 mm up",
+  "- **Outlines:** line 98 rings, 1,299 straight (3,800 mm) / 209 curved (365 mm); text 42 rings, 322 straight (436 mm) / 66 curved (110 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 14 in 7 lines: WAFI · CK SYS TE MS LTO · SAI4-101 AUDIO OISTRIBUTlON AMPLIFIER · ps · BS · tp · ht"
+ ]
+}

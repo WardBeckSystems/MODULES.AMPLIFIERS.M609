@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 14-066-06-003.jpg",
+ "version": 1,
+ "trace": "_traces/5ea44477ad34256f.svg",
+ "sheet": {
+  "number": "14-066-06-003",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.9, 5.4, 337.9, 410.6],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 527, "mm": 1104.0}, "curved": {"n": 129, "mm": 121.5}},
+  "text": {"rings": 49, "straight": {"n": 443, "mm": 449.7}, "curved": {"n": 166, "mm": 200.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [79.2, 194.1, 152.9, 277.3],
+   "w": 73.6,
+   "h": 83.2,
+   "from": "ring",
+   "words": ["300", "RI", "1/2w", "300", "R2", "1/2w", "300", "R3", "1/2w", "300", "RL", "1/2w"]
+  }
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [117.7, 269.4, 129.5, 275.9], "text": "300"},
+   {"mm": [102.8, 266.9, 110.3, 272.1], "text": "RI"},
+   {"mm": [115.5, 262.3, 132.1, 269.3], "text": "1/2w"},
+   {"mm": [85.3, 256.5, 97.2, 263.0], "text": "300"},
+   {"mm": [102.6, 253.0, 111.6, 259.5], "text": "R2"},
+   {"mm": [83.6, 248.7, 99.1, 255.7], "text": "1/2w"},
+   {"mm": [118.1, 242.2, 130.6, 249.2], "text": "300"},
+   {"mm": [103.8, 240.5, 112.5, 245.8], "text": "R3"},
+   {"mm": [115.9, 235.3, 132.1, 242.3], "text": "1/2w"},
+   {"mm": [85.7, 225.6, 113.1, 235.3], "text": "300 RL"},
+   {"mm": [83.6, 220.6, 99.1, 227.6], "text": "1/2w"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-003, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–338 mm across, 5–411 mm up",
+  "- **Outlines:** line 59 rings, 527 straight (1,104 mm) / 129 curved (122 mm); text 49 rings, 443 straight (450 mm) / 166 curved (200 mm)",
+  "- **Closed boxes:** 1; named: 300 RI 1/2w 300 R2 1/2w 300 R3 1/2w 300 ",
+  "- **Words (OCR):** 12 in 11 lines: 300 · RI · 1/2w · 300 · R2 · 1/2w · 300 · R3 · 1/2w · 300 RL · 1/2w"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 50,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p50.svg",
+ "sheet": {
+  "number": "B 14-066-06-004",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "50", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 6.0, 330.8, 410.2],
+ "outlines": {
+  "line": {"rings": 128, "straight": {"n": 1354, "mm": 1715.1}, "curved": {"n": 329, "mm": 407.6}},
+  "text": {"rings": 55, "straight": {"n": 407, "mm": 495.8}, "curved": {"n": 118, "mm": 138.6}},
+  "tb": {"rings": 5, "straight": {"n": 83, "mm": 104.9}, "curved": {"n": 18, "mm": 20.3}}
+ },
+ "circles": [
+  {"c": [245.9, 24.2], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [230.4, 24.4], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [209.0, 32.7], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [297.8, 33.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.4, 24.7], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [201.4, 51.2, 318.5, 59.6], "text": "('NBS] WARO-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [242.2, 36.1, 282.2, 41.8], "text": "SA14-066C"},
+   {"mm": [205.8, 28.7, 313.3, 34.2], "text": "OUTPUT SPLITTER NETWORKS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [221.9, 20.3, 298.2, 25.8], "text": "COMPONENT LAYOUT"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [211.2, 8.2, 272.2, 14.0], "text": "14-066-06-004"},
+   {"mm": [302.9, 9.1, 314.1, 14.8], "text": "155"}
+  ]
+ },
+ "title_block": {"mm": [231.6, 43.4, 325.3, 65.0], "from": "title-block words (training set)", "text": ["ps", "('NBS] WARO-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 14-066-06-004, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 6–410 mm up",
+  "- **Outlines:** line 128 rings, 1,354 straight (1,715 mm) / 329 curved (408 mm); text 55 rings, 407 straight (496 mm) / 118 curved (139 mm); tb 5 rings, 83 straight (105 mm) / 18 curved (20.3 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.4 @ (245.9, 24.2), r 2.4 @ (230.4, 24.4), r 2.4 @ (209.0, 32.7), r 2.3 @ (297.8, 33.2)",
+  "- **Words (OCR):** 15 in 10 lines: ps · ('NBS] WARO-BECK SYSTEMS · BS · SA14-066C · OUTPUT SPLITTER NETWORKS · tp · COMPONENT LAYOUT · ht · 14-066-06-004 · 155",
+  "- **Title block:** (232, 43)–(325, 65) mm: ps · ('NBS] WARO-BECK SYSTEMS · BS"
+ ]
+}

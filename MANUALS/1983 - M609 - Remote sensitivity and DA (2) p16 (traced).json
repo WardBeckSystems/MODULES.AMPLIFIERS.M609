@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.2, 5.6, 338.6, 403.5],
+ "outlines": {
+  "line": {"rings": 192, "straight": {"n": 3170, "mm": 7444.1}, "curved": {"n": 571, "mm": 792.5}},
+  "text": {"rings": 151, "straight": {"n": 1118, "mm": 1163.8}, "curved": {"n": 367, "mm": 521.1}}
+ },
+ "circles": [{"c": [117.8, 166.2], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [75.3, 337.2, 77.5, 356.0], "w": 2.2, "h": 18.8, "from": "ring"},
+  {"mm": [78.2, 337.2, 167.0, 356.0], "w": 88.8, "h": 18.8, "from": "ring"},
+  {"mm": [167.3, 337.2, 169.5, 356.0], "w": 2.2, "h": 18.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [19.2, 352.1, 28.7, 355.3], "text": "IkPuT"},
+   {"mm": [16.6, 345.7, 30.2, 348.1], "text": "HobMn"},
+   {"mm": [24.0, 342.6, 38.2, 345.0], "text": "Hanne"},
+   {"mm": [45.3, 336.2, 54.2, 338.6], "text": "PO_is"},
+   {"mm": [20.7, 325.8, 44.5, 328.2], "text": "hpUT GHIELO"},
+   {"mm": [84.4, 290.0, 93.9, 293.1], "text": "0-254"},
+   {"mm": [116.4, 287.6, 127.6, 290.7], "text": "Jo-3-"},
+   {"mm": [227.8, 272.5, 236.6, 274.9], "text": "5401"},
+   {"mm": [24.6, 271.0, 33.5, 274.1], "text": "30/6C"},
+   {"mm": [227.8, 268.6, 243.8, 271.7], "text": "UaliFier"},
+   {"mm": [45.3, 260.6, 54.2, 263.7], "text": "PIib"},
+   {"mm": [26.3, 250.9, 38.2, 254.0], "text": "AAOUNo"},
+   {"mm": [115.5, 231.0, 130.6, 234.1], "text": "Loc aeu"},
+   {"mm": [72.5, 224.8, 82.9, 227.9], "text": "LOCAL"},
+   {"mm": [70.2, 221.5, 84.4, 224.6], "text": "COMIROL"},
+   {"mm": [26.3, 205.5, 39.1, 208.7], "text": "REMOTE"},
+   {"mm": [25.5, 202.3, 39.7, 204.7], "text": "ccmacc"},
+   {"mm": [46.2, 200.8, 55.1, 203.2], "text": "a7_10"},
+   {"mm": [86.8, 183.3, 97.2, 186.4], "text": "LCcal"},
+   {"mm": [85.3, 180.1, 98.9, 183.2], "text": "Disaray"},
+   {"mm": [87.7, 174.4, 96.5, 177.6], "text": "9-127"},
+   {"mm": [85.7, 163.0, 94.6, 167.8], "text": "Rzo?"},
+   {"mm": [83.6, 150.5, 92.4, 153.6], "text": "03221"},
+   {"mm": [231.0, 90.0, 239.9, 92.4], "text": "Si0_|"},
+   {"mm": [235.8, 86.1, 246.1, 89.3], "text": "CAtoa"},
+   {"mm": [231.0, 82.9, 243.8, 86.0], "text": "DRIVLR"},
+   {"mm": [247.4, 12.7, 315.9, 82.8], "text": "http INBSps C"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–339 mm across, 6–404 mm up",
+  "- **Outlines:** line 192 rings, 3,170 straight (7,444 mm) / 571 curved (792 mm); text 151 rings, 1,118 straight (1,164 mm) / 367 curved (521 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.3 @ (117.8, 166.2)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 28 in 27 lines: IkPuT · HobMn · Hanne · PO_is · hpUT GHIELO · 0-254 · Jo-3- · 5401 · 30/6C · UaliFier · PIib · AAOUNo"
+ ]
+}

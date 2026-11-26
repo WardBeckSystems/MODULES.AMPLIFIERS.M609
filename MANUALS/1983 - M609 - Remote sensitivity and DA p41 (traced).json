@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 41,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p41.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "41", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 9.9, 304.2, 428.6],
+ "outlines": {
+  "line": {"rings": 25, "straight": {"n": 661, "mm": 2790.7}, "curved": {"n": 72, "mm": 107.4}},
+  "text": {"rings": 113, "straight": {"n": 981, "mm": 1227.4}, "curved": {"n": 258, "mm": 401.7}},
+  "tb": {"rings": 7, "straight": {"n": 21, "mm": 16.6}, "curved": {"n": 7, "mm": 8.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [27.9, 416.3, 142.9, 424.7], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [69.1, 233.2, 145.7, 240.8], "text": "SA14-O66A/B/C output"},
+   {"mm": [147.5, 232.7, 255.8, 240.3], "text": "SPLITTER NETWORK ASSEMBL IES"},
+   {"mm": [223.5, 57.2, 242.2, 64.2], "text": "ISSUE"},
+   {"mm": [222.8, 43.6, 277.2, 50.1], "text": "NOVEMBER 1985 ."}
+  ]
+ },
+ "title_block": {
+  "mm": [21.0, 48.6, 249.0, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "SA14-O66A/B/C output", "SPLITTER NETWORK ASSEMBL IES", "ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–304 mm across, 10–429 mm up",
+  "- **Outlines:** line 25 rings, 661 straight (2,791 mm) / 72 curved (107 mm); text 113 rings, 981 straight (1,227 mm) / 258 curved (402 mm); tb 7 rings, 21 straight (16.6 mm) / 7 curved (8.8 mm)",
+  "- **Words (OCR):** 9 in 5 lines: WARD-BECK SYSTEMS LTD_ · SA14-O66A/B/C output · SPLITTER NETWORK ASSEMBL IES · ISSUE · NOVEMBER 1985 .",
+  "- **Title block:** (21, 49)–(249, 432) mm: WARD-BECK SYSTEMS LTD_ · SA14-O66A/B/C output · SPLITTER NETWORK ASSEMBL IES · ISSUE"
+ ]
+}

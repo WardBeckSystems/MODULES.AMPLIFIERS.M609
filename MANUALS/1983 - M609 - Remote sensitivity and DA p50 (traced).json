@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 50,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p50.svg",
+ "sheet": {
+  "number": "14-066-06-004",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "50", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 6.0, 330.8, 410.2],
+ "outlines": {
+  "line": {"rings": 54, "straight": {"n": 464, "mm": 655.6}, "curved": {"n": 93, "mm": 91.6}},
+  "text": {"rings": 121, "straight": {"n": 1168, "mm": 1350.2}, "curved": {"n": 345, "mm": 432.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [206.6, 51.8, 233.0, 58.8], "text": "WES"},
+   {"mm": [239.0, 52.2, 320.0, 59.4], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [242.2, 36.5, 283.7, 44.6], "text": "SA14-066C"},
+   {"mm": [206.2, 28.5, 315.2, 37.4], "text": "OUTPUt SPLITTER NETWORKS"},
+   {"mm": [221.9, 20.3, 299.9, 29.2], "text": "COMPONENT LAYOUT"},
+   {"mm": [211.6, 8.6, 274.2, 15.6], "text": "14-066-06-004"},
+   {"mm": [302.7, 10.4, 322.8, 17.3], "text": "ISS.1"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-004, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 6–410 mm up",
+  "- **Outlines:** line 54 rings, 464 straight (656 mm) / 93 curved (91.6 mm); text 121 rings, 1,168 straight (1,350 mm) / 345 curved (432 mm)",
+  "- **Words (OCR):** 7 in 7 lines: WES · WARD-BECK SYSTEMS · SA14-066C · OUTPUt SPLITTER NETWORKS · COMPONENT LAYOUT · 14-066-06-004 · ISS.1"
+ ]
+}

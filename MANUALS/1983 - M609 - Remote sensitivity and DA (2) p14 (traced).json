@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 5.4, 338.5, 396.4],
+ "outlines": {
+  "line": {"rings": 104, "straight": {"n": 2184, "mm": 5568.1}, "curved": {"n": 291, "mm": 546.0}},
+  "text": {"rings": 267, "straight": {"n": 1951, "mm": 2245.0}, "curved": {"n": 495, "mm": 840.7}}
+ },
+ "circles": [
+  {"c": [285.7, 136.9], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [286.0, 96.8], "r": 5.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [130.8, 248.1], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [151.5, 238.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [203.8, 296.2, 248.5, 319.5], "w": 44.7, "h": 23.4, "from": "ring", "words": ["M208", "ATTENUATOR"]}],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [31.5, 316.7, 52.2, 323.2], "text": "INPUT"},
+   {"mm": [38.6, 310.2, 72.1, 317.4], "text": "To +8dBm"},
+   {"mm": [15.5, 309.6, 36.3, 316.1], "text": "22dBm"},
+   {"mm": [150.9, 311.1, 163.7, 316.6], "text": "PRE"},
+   {"mm": [219.4, 307.9, 235.3, 314.4], "text": "M208"},
+   {"mm": [24.4, 303.1, 56.1, 310.3], "text": "30k ohms"},
+   {"mm": [272.0, 304.6, 283.9, 311.1], "text": "out"},
+   {"mm": [206.0, 300.7, 246.6, 308.7], "text": "ATTENUATOR"},
+   {"mm": [96.7, 282.4, 126.9, 289.6], "text": "LOc SENS"},
+   {"mm": [34.5, 275.3, 60.9, 283.2], "text": "REMOTE"},
+   {"mm": [93.7, 276.1, 127.2, 282.6], "text": "+30/_ 30dB"},
+   {"mm": [26.8, 268.8, 69.1, 276.0], "text": "SENSITiViTY"},
+   {"mm": [33.9, 261.7, 62.6, 268.9], "text": "CONTROL"},
+   {"mm": [29.8, 255.4, 63.3, 261.9], "text": "+30/-30dB"},
+   {"mm": [108.0, 243.3, 121.6, 251.2], "text": "Loc"},
+   {"mm": [202.7, 158.9, 233.0, 165.4], "text": "PROGRAM"},
+   {"mm": [198.8, 151.8, 236.2, 159.7], "text": "DE TecTORS"},
+   {"mm": [300.7, 133.4, 334.2, 141.3], "text": "OVERLOAD"},
+   {"mm": [150.1, 127.2, 163.7, 134.4], "text": "REF"},
+   {"mm": [301.4, 92.8, 326.0, 99.3], "text": "NORMAL"},
+   {"mm": [151.8, 86.4, 164.5, 93.6], "text": "REF"},
+   {"mm": [209.9, 43.0, 247.6, 68.2], "text": "38"},
+   {"mm": [42.5, 56.1, 69.7, 62.6], "text": "I15V AC"},
+   {"mm": [301.4, 51.4, 335.1, 58.6], "text": "POWER ON"},
+   {"mm": [38.6, 49.0, 72.1, 56.9], "text": "50/60 Hz ."},
+   {"mm": [249.8, 12.7, 287.6, 53.0], "text": "htt"}
+  ]
+ },
+ "dots": [{"c": [167.6, 271.8], "r": 1.5, "lines": 0}, {"c": [151.6, 248.1], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–338 mm across, 5–396 mm up",
+  "- **Outlines:** line 104 rings, 2,184 straight (5,568 mm) / 291 curved (546 mm); text 267 rings, 1,951 straight (2,245 mm) / 495 curved (841 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 5.9 @ (285.7, 136.9), r 5.8 @ (286.0, 96.8), r 5.7 @ (130.8, 248.1), r 2.3 @ (151.5, 238.2)",
+  "- **Closed boxes:** 1; named: M208 ATTENUATOR",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 32 in 26 lines: INPUT · To +8dBm · 22dBm · PRE · M208 · 30k ohms · out · ATTENUATOR · LOc SENS · REMOTE · +30/_ 30dB · SENSITiViTY"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.9, 428.1],
+ "outlines": {
+  "line": {"rings": 124, "straight": {"n": 1575, "mm": 4335.9}, "curved": {"n": 243, "mm": 420.7}},
+  "text": {"rings": 221, "straight": {"n": 1846, "mm": 2433.6}, "curved": {"n": 399, "mm": 658.6}}
+ },
+ "circles": [
+  {"c": [174.9, 246.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [185.1, 248.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [150.1, 409.3, 154.8, 412.8], "w": 4.7, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [45.3, 395.1, 280.5, 412.7], "text": "['NElS] \"\"\"'OGRl!SS \"\\lENUE.~CN'TAFlIO '''3fH31'1:'50"},
+   {"mm": [179.4, 406.3, 273.8, 413.8], "text": "CK YSTE MS LT"},
+   {"mm": [119.8, 394.0, 163.0, 404.8], "text": "09-'1' 06:\\-,,="},
+   {"mm": [120.3, 395.1, 136.7, 399.2], "text": "TEU!><·"},
+   {"mm": [207.9, 395.1, 238.8, 399.2], "text": "Ti!U!Po<INE"},
+   {"mm": [148.1, 238.4, 189.3, 250.6], "text": "M609"},
+   {"mm": [116.6, 222.6, 214.6, 229.1], "text": "REMOTE SENS TIVITY"},
+   {"mm": [92.0, 209.9, 237.7, 216.3], "text": "AUDIO DISTRIBUTION AMPLIFIER"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [209.9, 54.0, 291.7, 67.6], "text": "~\"'NUAL ISS UE BS"},
+   {"mm": [261.2, 61.5, 268.4, 66.8], "text": "/f2"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [164.8, 245.0], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–428 mm up",
+  "- **Outlines:** line 124 rings, 1,575 straight (4,336 mm) / 243 curved (421 mm); text 221 rings, 1,846 straight (2,434 mm) / 399 curved (659 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 5.0 @ (174.9, 246.6), r 1.6 @ (185.1, 248.1)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 27 in 13 lines: ['NElS] \"\"\"'OGRl!SS \"\\lENUE.~CN'TAFlIO '''3fH31'1:'50 · CK YSTE MS LT · 09-'1' 06:\\-,,= · TEU!><· · Ti!U!Po<INE · M609 · REMOTE SENS TIVITY · AUDIO DISTRIBUTION AMPLIFIER · ps · ~\"'NUAL ISS UE BS · /f2 · tp"
+ ]
+}

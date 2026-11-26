@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.9, 428.1],
+ "outlines": {
+  "line": {"rings": 34, "straight": {"n": 783, "mm": 3282.4}, "curved": {"n": 76, "mm": 125.6}},
+  "text": {"rings": 205, "straight": {"n": 2088, "mm": 2873.3}, "curved": {"n": 487, "mm": 822.0}},
+  "tb": {"rings": 7, "straight": {"n": 22, "mm": 16.9}, "curved": {"n": 5, "mm": 7.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [120.7, 406.1, 284.1, 415.7], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [51.8, 395.3, 281.3, 411.8], "text": "WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550"},
+   {"mm": [186.3, 401.4, 281.7, 407.1], "text": "SCAABOAOUGH; ONTAPIO M1h2*4"},
+   {"mm": [120.0, 395.3, 171.9, 400.6], "text": "Telex' 065-25399"},
+   {"mm": [147.0, 239.4, 191.3, 254.1], "text": "M6o9"},
+   {"mm": [115.5, 222.4, 215.9, 231.0], "text": "REMOTE SENSITIVITY"},
+   {"mm": [91.1, 209.9, 119.6, 218.0], "text": "AUDIO"},
+   {"mm": [123.1, 209.4, 239.0, 218.1], "text": "DISTRIBUTION AMPLIFIER"},
+   {"mm": [209.2, 62.2, 257.4, 68.7], "text": "MANUAL ISSUE"},
+   {"mm": [209.2, 48.6, 260.4, 55.1], "text": "NOVEMBER 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [113.8, 53.5, 264.1, 424.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD_",
+   "WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550",
+   "SCAABOAOUGH; ONTAPIO M1h2*4",
+   "Telex' 065-25399",
+   "M6o9",
+   "REMOTE SENSITIVITY",
+   "DISTRIBUTION AMPLIFIER",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–428 mm up",
+  "- **Outlines:** line 34 rings, 783 straight (3,282 mm) / 76 curved (126 mm); text 205 rings, 2,088 straight (2,873 mm) / 487 curved (822 mm); tb 7 rings, 22 straight (16.9 mm) / 5 curved (7.0 mm)",
+  "- **Words (OCR):** 20 in 10 lines: WARD-BECK SYSTEMS LTD_ · WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550 · SCAABOAOUGH; ONTAPIO M1h2*4 · Telex' 065-25399 · M6o9 · REMOTE SENSITIVITY · AUDIO · DISTRIBUTION AMPLIFIER · MANUAL ISSUE · NOVEMBER 1985",
+  "- **Title block:** (114, 54)–(264, 424) mm: WARD-BECK SYSTEMS LTD_ · WES 841 PPOGRESS AVENUE TELEPHONE: 416,438-6550 · SCAABOAOUGH; ONTAPIO M1h2*4 · Telex' 065-25399 · M6o9 · REMOTE SENSITIVITY · DISTRIBUTION AMPLIFIER · MANUAL ISSUE"
+ ]
+}

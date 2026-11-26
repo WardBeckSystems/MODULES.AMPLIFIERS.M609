@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 32,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p32.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "32", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 4.5, 338.7, 358.0],
+ "outlines": {"line": {"rings": 1088, "straight": {"n": 10065, "mm": 13734.3}, "curved": {"n": 3087, "mm": 4595.4}}},
+ "circles": [
+  {"c": [51.0, 196.4], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [39.1, 196.4], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.6, 263.4], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [124.2, 201.0], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [268.9, 262.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.6, 263.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [46.9, 262.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7}
+ ],
+ "boxes": [
+  {"mm": [173.2, 258.0, 190.0, 265.8], "w": 16.8, "h": 7.8, "from": "ring"},
+  {"mm": [99.5, 259.2, 114.9, 265.2], "w": 15.4, "h": 6.0, "from": "ring"},
+  {"mm": [55.3, 259.5, 70.8, 265.1], "w": 15.5, "h": 5.6, "from": "ring"},
+  {"mm": [252.4, 260.6, 254.5, 263.4], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [182.7, 233.6, 184.8, 236.4], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [229.7, 203.4, 231.8, 206.4], "w": 2.1, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [185.7, 261.7], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–339 mm across, 4–358 mm up",
+  "- **Outlines:** line 1,088 rings, 10,065 straight (13,734 mm) / 3,087 curved (4,595 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 4.9 @ (51.0, 196.4), r 4.5 @ (39.1, 196.4), r 4.5 @ (85.6, 263.4), r 2.9 @ (124.2, 201.0)",
+  "- **Closed boxes:** 6",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 46,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p46.svg",
+ "sheet": {
+  "number": "14-066-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "46", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 5.6, 337.9, 410.4],
+ "outlines": {
+  "line": {"rings": 62, "straight": {"n": 422, "mm": 484.5}, "curved": {"n": 92, "mm": 84.9}},
+  "text": {"rings": 127, "straight": {"n": 1152, "mm": 1266.7}, "curved": {"n": 330, "mm": 403.4}},
+  "tb": {"rings": 2, "straight": {"n": 75, "mm": 147.9}, "curved": {"n": 8, "mm": 8.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [212.7, 60.5, 238.6, 67.4], "text": "WBS"},
+   {"mm": [244.4, 60.9, 324.1, 68.1], "text": "WAAD-BECK SYSTEMS"},
+   {"mm": [245.9, 44.9, 286.3, 51.9], "text": "SA 14-066A"},
+   {"mm": [215.9, 36.7, 320.0, 45.3], "text": "output SPLITTER NETWORKS"},
+   {"mm": [277.6, 29.1, 305.5, 37.3], "text": "LAYOUT"},
+   {"mm": [232.1, 28.9, 273.5, 35.9], "text": "COMPONENT"},
+   {"mm": [215.3, 17.3, 271.4, 24.2], "text": "14-066-06-002"},
+   {"mm": [305.3, 17.7, 324.1, 24.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [205.8, 51.8, 330.7, 76.9], "from": "title-block words (training set)", "text": ["WBS", "WAAD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-002, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 6–410 mm up",
+  "- **Outlines:** line 62 rings, 422 straight (484 mm) / 92 curved (84.9 mm); text 127 rings, 1,152 straight (1,267 mm) / 330 curved (403 mm); tb 2 rings, 75 straight (148 mm) / 8 curved (8.1 mm)",
+  "- **Words (OCR):** 8 in 8 lines: WBS · WAAD-BECK SYSTEMS · SA 14-066A · output SPLITTER NETWORKS · LAYOUT · COMPONENT · 14-066-06-002 · ISS.1",
+  "- **Title block:** (206, 52)–(331, 77) mm: WBS · WAAD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 42,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p42.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "42", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 325.8, 428.1],
+ "outlines": {
+  "line": {"rings": 42, "straight": {"n": 908, "mm": 3808.0}, "curved": {"n": 101, "mm": 164.3}},
+  "text": {"rings": 343, "straight": {"n": 2722, "mm": 3225.7}, "curved": {"n": 811, "mm": 1305.0}},
+  "tb": {"rings": 8, "straight": {"n": 26, "mm": 26.8}, "curved": {"n": 9, "mm": 15.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 43,
+  "lines": [
+   {"mm": [33.5, 416.3, 147.7, 423.6], "text": "WAAD-BECK SYSTEms LTD"},
+   {"mm": [149.4, 373.5, 188.9, 380.5], "text": "PARTS LiST"},
+   {"mm": [76.0, 360.6, 187.2, 367.5], "text": "SAI4-O66A/B/C output SPLiTTER"},
+   {"mm": [190.0, 357.7, 263.2, 367.1], "text": "NETWORK ASSEMBLIES"},
+   {"mm": [45.8, 334.6, 63.0, 341.1], "text": "PART"},
+   {"mm": [73.8, 334.2, 118.1, 341.2], "text": "DESCRIPTION"},
+   {"mm": [183.5, 333.6, 197.5, 340.5], "text": "MFG"},
+   {"mm": [231.4, 332.9, 294.1, 340.0], "text": "MFG PART NUMBER"},
+   {"mm": [45.8, 321.3, 53.8, 327.7], "text": "RI"},
+   {"mm": [73.8, 320.6, 101.9, 327.1], "text": "Resistor"},
+   {"mm": [104.7, 320.6, 120.3, 327.6], "text": "1/2w"},
+   {"mm": [123.1, 319.5, 150.5, 327.7], "text": "59 300"},
+   {"mm": [182.7, 319.3, 208.3, 327.5], "text": "Philips"},
+   {"mm": [46.2, 315.0, 54.8, 320.3], "text": "R2"},
+   {"mm": [138.6, 314.1, 150.5, 320.6], "text": "300"},
+   {"mm": [45.8, 307.7, 54.8, 314.1], "text": "R3"},
+   {"mm": [138.6, 307.0, 150.5, 314.0], "text": "300"},
+   {"mm": [45.8, 301.2, 54.4, 307.7], "text": "R4"},
+   {"mm": [138.6, 300.5, 150.5, 307.0], "text": "300"},
+   {"mm": [45.3, 66.9, 129.1, 74.3], "text": "WBS recommends the use"},
+   {"mm": [131.7, 66.5, 204.0, 73.9], "text": "of replacement parts"},
+   {"mm": [206.6, 65.8, 235.5, 73.4], "text": "made by"},
+   {"mm": [238.4, 66.1, 283.0, 74.5], "text": "the specified"},
+   {"mm": [45.3, 60.5, 107.3, 67.4], "text": "manufacturers for"},
+   {"mm": [109.5, 59.2, 209.9, 67.6], "text": "continued optimum equipment"},
+   {"mm": [212.2, 59.4, 254.1, 67.5], "text": "performance"},
+   {"mm": [133.9, 19.9, 203.4, 27.5], "text": "SA14-066A/B/C 1-1"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.7, 58.8, 135.7, 431.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEms LTD",
+   "SAI4-O66A/B/C output SPLiTTER",
+   "PART",
+   "DESCRIPTION",
+   "RI",
+   "Resistor",
+   "1/2w",
+   "R2",
+   "R3",
+   "R4",
+   "WBS recommends the use",
+   "manufacturers for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–326 mm across, 0–428 mm up",
+  "- **Outlines:** line 42 rings, 908 straight (3,808 mm) / 101 curved (164 mm); text 343 rings, 2,722 straight (3,226 mm) / 811 curved (1,305 mm); tb 8 rings, 26 straight (26.8 mm) / 9 curved (15.0 mm)",
+  "- **Words (OCR):** 43 in 27 lines: WAAD-BECK SYSTEms LTD · PARTS LiST · SAI4-O66A/B/C output SPLiTTER · NETWORK ASSEMBLIES · PART · DESCRIPTION · MFG · MFG PART NUMBER · RI · Resistor · 1/2w · 59 300",
+  "- **Title block:** (27, 59)–(136, 432) mm: WAAD-BECK SYSTEms LTD · SAI4-O66A/B/C output SPLiTTER · PART · DESCRIPTION · RI · Resistor · 1/2w · R2 · R3 · R4 · WBS recommends the use · manufacturers for"
+ ]
+}

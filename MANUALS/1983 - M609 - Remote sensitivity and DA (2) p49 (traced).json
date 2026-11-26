@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 49,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p49.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "49", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 3.0, 338.5, 407.6],
+ "outlines": {
+  "line": {"rings": 57, "straight": {"n": 835, "mm": 1729.0}, "curved": {"n": 152, "mm": 263.1}},
+  "text": {"rings": 87, "straight": {"n": 628, "mm": 838.2}, "curved": {"n": 185, "mm": 322.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [36.9, 172.1, 110.1, 255.7],
+   "w": 73.2,
+   "h": 83.6,
+   "from": "ring",
+   "words": ["30", "Rl", "2W", "00", "2W", "R2", "300", "1!2W", "R3", "30", "R4", "2W"]
+  }
+ ],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [77.3, 220.2, 83.6, 225.5], "text": "30"},
+   {"mm": [62.4, 215.0, 67.8, 220.3], "text": "Rl"},
+   {"mm": [81.8, 215.0, 90.5, 220.3], "text": "2W"},
+   {"mm": [47.7, 206.8, 54.0, 212.1], "text": "00"},
+   {"mm": [49.4, 201.4, 69.1, 206.7], "text": "2W R2"},
+   {"mm": [76.6, 192.8, 86.4, 198.1], "text": "300"},
+   {"mm": [62.4, 187.2, 69.3, 192.2], "text": "R3"},
+   {"mm": [75.6, 187.0, 90.0, 192.2], "text": "1!2W"},
+   {"mm": [44.5, 179.4, 50.5, 184.7], "text": "30"},
+   {"mm": [49.0, 174.7, 57.4, 179.9], "text": "2W"},
+   {"mm": [62.6, 174.9, 76.6, 180.2], "text": "R4"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 327.3, 59.7], "text": "BS (\\NSS]"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [298.4, 28.7, 339.4, 34.2], "text": "OUTPUT SPI"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [314.8, 20.3, 338.7, 25.8], "text": "COMPO"},
+   {"mm": [304.0, 8.6, 340.3, 14.2], "text": "14-066-C"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–338 mm across, 3–408 mm up",
+  "- **Outlines:** line 57 rings, 835 straight (1,729 mm) / 152 curved (263 mm); text 87 rings, 628 straight (838 mm) / 185 curved (322 mm)",
+  "- **Closed boxes:** 1; named: 30 Rl 2W 00 2W R2 300 1!2W R3 30 R4 2W",
+  "- **Words (OCR):** 21 in 18 lines: 30 · Rl · 2W · 00 · 2W R2 · 300 · R3 · 1!2W · 30 · 2W · R4 · ps"
+ ]
+}

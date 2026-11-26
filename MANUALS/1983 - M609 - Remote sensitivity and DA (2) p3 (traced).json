@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 313.7, 429.4],
+ "outlines": {
+  "line": {"rings": 89, "straight": {"n": 1114, "mm": 3675.8}, "curved": {"n": 195, "mm": 330.3}},
+  "text": {"rings": 15, "straight": {"n": 95, "mm": 156.1}, "curved": {"n": 32, "mm": 54.3}}
+ },
+ "circles": [{"c": [168.8, 242.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [62.0, 419.3, 67.1, 423.8], "w": 5.2, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [33.0, 418.2, 46.6, 423.7], "text": "WA"},
+   {"mm": [69.1, 418.2, 98.9, 423.7], "text": "ECK SY"},
+   {"mm": [109.7, 418.2, 148.3, 423.7], "text": "EMS TO."},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–429 mm up",
+  "- **Outlines:** line 89 rings, 1,114 straight (3,676 mm) / 195 curved (330 mm); text 15 rings, 95 straight (156 mm) / 32 curved (54.3 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (168.8, 242.5)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 9 in 7 lines: WA · ECK SY · EMS TO. · ps · BS · tp · ht"
+ ]
+}

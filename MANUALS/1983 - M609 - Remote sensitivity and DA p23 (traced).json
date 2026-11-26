@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 317.6, 428.6],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 640, "mm": 2865.0}, "curved": {"n": 59, "mm": 95.6}},
+  "text": {"rings": 94, "straight": {"n": 775, "mm": 974.9}, "curved": {"n": 164, "mm": 276.7}},
+  "tb": {"rings": 7, "straight": {"n": 43, "mm": 75.7}, "curved": {"n": 8, "mm": 10.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [31.7, 416.3, 146.2, 423.6], "text": "WAAD-BECK Systems LTD_"},
+   {"mm": [99.7, 233.6, 241.6, 241.2], "text": "SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER"},
+   {"mm": [247.0, 56.1, 276.6, 63.8], "text": "Issue #2"},
+   {"mm": [245.9, 43.2, 261.5, 49.7], "text": "June"},
+   {"mm": [264.3, 43.2, 278.7, 50.1], "text": "1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [25.1, 47.5, 283.5, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK Systems LTD_", "SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER", "Issue #2"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 0–429 mm up",
+  "- **Outlines:** line 26 rings, 640 straight (2,865 mm) / 59 curved (95.6 mm); text 94 rings, 775 straight (975 mm) / 164 curved (277 mm); tb 7 rings, 43 straight (75.7 mm) / 8 curved (10.7 mm)",
+  "- **Words (OCR):** 10 in 5 lines: WAAD-BECK Systems LTD_ · SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER · Issue #2 · June · 1986",
+  "- **Title block:** (25, 48)–(284, 432) mm: WAAD-BECK Systems LTD_ · SA1L-101 AUDI0 DISTR IBuTION AMPL IFIER · Issue #2"
+ ]
+}

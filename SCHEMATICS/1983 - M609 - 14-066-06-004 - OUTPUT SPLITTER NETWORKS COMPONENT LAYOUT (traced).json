@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/SCHEMATICS/1983 - M609 - 14-066-06-004 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/4d8a88ebb4c7c306.svg",
+ "sheet": {
+  "number": "14-066-06-004",
+  "title": "Output Splitter Networks Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 6.3, 330.8, 407.4],
+ "outlines": {
+  "line": {"rings": 50, "straight": {"n": 401, "mm": 512.2}, "curved": {"n": 85, "mm": 74.1}},
+  "text": {"rings": 121, "straight": {"n": 1239, "mm": 1373.2}, "curved": {"n": 349, "mm": 420.8}},
+  "tb": {"rings": 2, "straight": {"n": 59, "mm": 149.3}, "curved": {"n": 7, "mm": 8.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [206.6, 51.8, 232.5, 58.8], "text": "WBS"},
+   {"mm": [239.0, 52.2, 320.0, 59.4], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [242.2, 36.3, 283.7, 44.7], "text": "SA14-066C"},
+   {"mm": [236.8, 28.9, 315.0, 37.6], "text": "SPLITTER NETWORKS"},
+   {"mm": [205.8, 28.9, 234.9, 36.6], "text": "OUTPUt"},
+   {"mm": [221.5, 20.5, 299.5, 29.1], "text": "COMPONENT LAYOUT"},
+   {"mm": [211.6, 8.6, 274.2, 15.6], "text": "14-066-06-004"},
+   {"mm": [302.7, 10.4, 322.8, 17.3], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [199.9, 43.2, 326.7, 68.3], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-004, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 6–407 mm up",
+  "- **Outlines:** line 50 rings, 401 straight (512 mm) / 85 curved (74.1 mm); text 121 rings, 1,239 straight (1,373 mm) / 349 curved (421 mm); tb 2 rings, 59 straight (149 mm) / 7 curved (8.4 mm)",
+  "- **Words (OCR):** 8 in 8 lines: WBS · WARD-BECK SYSTEMS · SA14-066C · SPLITTER NETWORKS · OUTPUt · COMPONENT LAYOUT · 14-066-06-004 · ISS.1",
+  "- **Title block:** (200, 43)–(327, 68) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}

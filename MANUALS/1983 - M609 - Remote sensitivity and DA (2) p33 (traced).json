@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 33,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p33.svg",
+ "sheet": {
+  "number": "B 14-101-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "33", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 2.4, 338.3, 419.1],
+ "outlines": {
+  "line": {"rings": 731, "straight": {"n": 7014, "mm": 8957.9}, "curved": {"n": 2065, "mm": 2361.7}},
+  "text": {"rings": 222, "straight": {"n": 1369, "mm": 1390.0}, "curved": {"n": 311, "mm": 354.5}},
+  "tb": {"rings": 6, "straight": {"n": 100, "mm": 102.9}, "curved": {"n": 15, "mm": 17.7}}
+ },
+ "circles": [
+  {"c": [185.6, 264.6], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [185.7, 204.4], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [159.6, 263.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [75.2, 262.5], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7}
+ ],
+ "boxes": [
+  {"mm": [74.1, 241.8, 76.2, 244.6], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [78.2, 227.8, 80.3, 230.6], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [132.6, 224.3, 135.4, 228.6], "w": 2.8, "h": 4.3, "from": "ring"},
+  {"mm": [81.6, 221.7, 83.8, 224.5], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [58.7, 218.7, 60.9, 221.5], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [36.1, 203.6, 38.2, 206.4], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [162.1, 188.5, 189.1, 198.0], "w": 27.0, "h": 9.5, "from": "ring"},
+  {"mm": [3.5, 191.5, 5.6, 195.6], "w": 2.2, "h": 4.1, "from": "ring"},
+  {"mm": [70.8, 191.1, 73.0, 193.9], "w": 2.2, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [209.0, 62.8, 325.6, 71.2], "text": "[VVElS) WARe-BECK SYSTEMS"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [249.8, 47.9, 284.6, 53.9], "text": "SA14-101"},
+   {"mm": [213.5, 39.7, 320.8, 45.2], "text": "AUDIO AMPLIFIER ASSEMBLY"},
+   {"mm": [232.3, 31.5, 303.1, 37.0], "text": "COMPONENT LAYOUT"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [217.4, 18.8, 273.5, 24.8], "text": "14-101-06-001"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [309.4, 19.4, 320.6, 24.9], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [239.2, 55.0, 332.3, 76.7], "from": "title-block words (training set)", "text": ["[VVElS) WARe-BECK SYSTEMS", "ps"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 14-101-06-001, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 2–419 mm up",
+  "- **Outlines:** line 731 rings, 7,014 straight (8,958 mm) / 2,065 curved (2,362 mm); text 222 rings, 1,369 straight (1,390 mm) / 311 curved (354 mm); tb 6 rings, 100 straight (103 mm) / 15 curved (17.7 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.6 @ (185.6, 264.6), r 4.5 @ (185.7, 204.4), r 2.5 @ (159.6, 263.4), r 2.0 @ (75.2, 262.5)",
+  "- **Closed boxes:** 9",
+  "- **Words (OCR):** 15 in 10 lines: [VVElS) WARe-BECK SYSTEMS · ps · BS · SA14-101 · AUDIO AMPLIFIER ASSEMBLY · COMPONENT LAYOUT · tp · 14-101-06-001 · ht · ISS",
+  "- **Title block:** (239, 55)–(332, 77) mm: [VVElS) WARe-BECK SYSTEMS · ps"
+ ]
+}

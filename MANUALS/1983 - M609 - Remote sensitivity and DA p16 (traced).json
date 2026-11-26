@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.2, 5.6, 338.6, 403.5],
+ "outlines": {
+  "line": {"rings": 179, "straight": {"n": 3041, "mm": 7341.2}, "curved": {"n": 538, "mm": 753.0}},
+  "text": {"rings": 124, "straight": {"n": 993, "mm": 823.9}, "curved": {"n": 348, "mm": 460.0}}
+ },
+ "circles": [{"c": [117.8, 166.2], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [75.3, 337.2, 77.5, 356.0], "w": 2.2, "h": 18.8, "from": "ring"},
+  {"mm": [78.2, 337.2, 167.0, 356.0], "w": 88.8, "h": 18.8, "from": "ring"},
+  {"mm": [167.3, 337.2, 169.5, 356.0], "w": 2.2, "h": 18.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [46.6, 354.9, 55.3, 358.3], "text": "PZ-8"},
+   {"mm": [18.6, 351.7, 28.9, 355.1], "text": "INPuT"},
+   {"mm": [13.8, 347.8, 21.4, 351.7], "text": "JBm"},
+   {"mm": [16.4, 344.6, 30.9, 348.4], "text": "NOMImal"},
+   {"mm": [33.2, 347.8, 40.8, 351.7], "text": "aBm"},
+   {"mm": [15.3, 341.3, 39.5, 345.2], "text": "dBm MAXIMUM"},
+   {"mm": [14.9, 338.1, 31.7, 341.5], "text": "Zok onm"},
+   {"mm": [45.1, 334.9, 55.3, 338.7], "text": "Pz-16"},
+   {"mm": [20.7, 324.7, 55.3, 328.6], "text": "INpuT ShIELD Pz-7"},
+   {"mm": [88.3, 292.8, 95.9, 296.1], "text": "Fz01"},
+   {"mm": [84.4, 289.5, 94.1, 292.9], "text": "0.254"},
+   {"mm": [119.0, 291.2, 126.9, 294.6], "text": "Tzoi"},
+   {"mm": [46.6, 284.8, 54.8, 288.6], "text": "Pi-7"},
+   {"mm": [25.0, 273.3, 39.1, 277.2], "text": "ISV AC"},
+   {"mm": [24.6, 270.1, 39.7, 273.9], "text": "50/60 Hz"},
+   {"mm": [45.1, 259.9, 55.3, 263.8], "text": "PI-16"},
+   {"mm": [25.7, 250.2, 38.6, 254.1], "text": "GROUNO"},
+   {"mm": [46.6, 250.2, 54.8, 253.3], "text": "PZ-i"},
+   {"mm": [87.7, 232.3, 95.6, 236.1], "text": "Rz01"},
+   {"mm": [117.9, 234.0, 128.2, 237.4], "text": "5w201"},
+   {"mm": [115.7, 230.1, 130.8, 234.0], "text": "Loc/reM"},
+   {"mm": [72.1, 224.3, 82.9, 228.2], "text": "LOcAL"},
+   {"mm": [108.6, 226.5, 115.5, 229.8], "text": "LOC"},
+   {"mm": [108.6, 221.5, 116.2, 224.9], "text": "REM"},
+   {"mm": [46.6, 209.6, 55.3, 213.5], "text": "Pz-2"},
+   {"mm": [25.7, 199.9, 55.3, 205.5], "text": "CONTROL Pz-10"},
+   {"mm": [26.1, 205.3, 39.5, 209.2], "text": "reMote"},
+   {"mm": [86.6, 182.7, 97.8, 186.5], "text": "LOCAL"},
+   {"mm": [86.6, 174.0, 96.7, 178.3], "text": "9-109"},
+   {"mm": [108.2, 171.4, 115.7, 174.8], "text": "LOc"},
+   {"mm": [86.1, 160.6, 93.1, 164.5], "text": "JKJ"},
+   {"mm": [84.4, 157.4, 94.8, 161.2], "text": "3.75w"},
+   {"mm": [230.6, 89.4, 244.0, 92.7], "text": "54B-117"},
+   {"mm": [230.6, 82.9, 243.5, 86.7], "text": "DRIVER"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–339 mm across, 6–404 mm up",
+  "- **Outlines:** line 179 rings, 3,041 straight (7,341 mm) / 538 curved (753 mm); text 124 rings, 993 straight (824 mm) / 348 curved (460 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.3 @ (117.8, 166.2)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 38 in 34 lines: PZ-8 · INPuT · JBm · NOMImal · aBm · dBm MAXIMUM · Zok onm · Pz-16 · INpuT ShIELD Pz-7 · Fz01 · 0.254 · Tzoi"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 48,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p48.svg",
+ "sheet": {
+  "number": "14-066-06-003",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "48", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 17.4, 330.5, 410.2],
+ "outlines": {
+  "line": {"rings": 90, "straight": {"n": 532, "mm": 596.0}, "curved": {"n": 140, "mm": 122.3}},
+  "text": {"rings": 131, "straight": {"n": 1106, "mm": 1212.7}, "curved": {"n": 347, "mm": 426.0}},
+  "tb": {"rings": 2, "straight": {"n": 67, "mm": 151.9}, "curved": {"n": 4, "mm": 4.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [220.2, 58.7, 331.8, 66.9], "text": "WBS WARD-BECX BYSTEMS"},
+   {"mm": [253.5, 44.3, 293.8, 51.2], "text": "SA 14-066B"},
+   {"mm": [223.5, 35.8, 327.5, 44.2], "text": "output SPLITTER NETWORKS"},
+   {"mm": [239.6, 28.3, 281.1, 35.2], "text": "COMPONENT"},
+   {"mm": [285.2, 28.9, 312.6, 35.4], "text": "LAYOUT"},
+   {"mm": [222.8, 17.1, 278.9, 24.0], "text": "14-066-06-003"},
+   {"mm": [313.5, 16.2, 331.2, 23.1], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [213.3, 50.2, 338.5, 75.6], "from": "title-block words (training set)", "text": ["WBS WARD-BECX BYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-003, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 17–410 mm up",
+  "- **Outlines:** line 90 rings, 532 straight (596 mm) / 140 curved (122 mm); text 131 rings, 1,106 straight (1,213 mm) / 347 curved (426 mm); tb 2 rings, 67 straight (152 mm) / 4 curved (4.6 mm)",
+  "- **Words (OCR):** 8 in 7 lines: WBS WARD-BECX BYSTEMS · SA 14-066B · output SPLITTER NETWORKS · COMPONENT · LAYOUT · 14-066-06-003 · ISS.1",
+  "- **Title block:** (213, 50)–(338, 76) mm: WBS WARD-BECX BYSTEMS"
+ ]
+}

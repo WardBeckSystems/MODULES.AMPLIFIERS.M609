@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 46,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p46.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "46", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.8, 332.5, 401.1],
+ "outlines": {
+  "line": {"rings": 79, "straight": {"n": 883, "mm": 1269.5}, "curved": {"n": 184, "mm": 295.0}},
+  "text": {"rings": 59, "straight": {"n": 372, "mm": 506.6}, "curved": {"n": 111, "mm": 191.3}},
+  "tb": {"rings": 21, "straight": {"n": 234, "mm": 294.4}, "curved": {"n": 53, "mm": 88.7}}
+ },
+ "circles": [
+  {"c": [218.9, 40.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [303.4, 41.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [293.5, 33.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [207.5, 59.8, 322.8, 68.2], "text": "[VVSS] WARe-BECK SYSTEMS"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [245.7, 44.5, 285.0, 50.0], "text": "SA14-066A"},
+   {"mm": [215.7, 36.7, 318.2, 42.2], "text": "OUTPUT SPLITTER NETWORKS"},
+   {"mm": [231.7, 28.5, 303.6, 34.0], "text": "COMPONENT LAYOUT"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [215.3, 17.1, 265.1, 22.6], "text": "14-066-06-00"},
+   {"mm": [305.9, 16.6, 316.3, 22.1], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [237.4, 52.2, 329.5, 73.7], "from": "title-block words (training set)", "text": ["[VVSS] WARe-BECK SYSTEMS", "ps", "BS"]},
+ "dots": [{"c": [293.5, 33.0], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 6–401 mm up",
+  "- **Outlines:** line 79 rings, 883 straight (1,270 mm) / 184 curved (295 mm); text 59 rings, 372 straight (507 mm) / 111 curved (191 mm); tb 21 rings, 234 straight (294 mm) / 53 curved (88.7 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.4 @ (218.9, 40.5), r 2.3 @ (303.4, 41.1), r 2.3 @ (293.5, 33.0)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 15 in 10 lines: [VVSS] WARe-BECK SYSTEMS · ps · BS · SA14-066A · OUTPUT SPLITTER NETWORKS · COMPONENT LAYOUT · tp · ht · 14-066-06-00 · ISS",
+  "- **Title block:** (237, 52)–(330, 74) mm: [VVSS] WARe-BECK SYSTEMS · ps · BS"
+ ]
+}

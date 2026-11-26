@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 49,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p49.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "49", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 3.0, 338.5, 407.6],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 557, "mm": 1223.5}, "curved": {"n": 83, "mm": 134.3}},
+  "text": {"rings": 92, "straight": {"n": 715, "mm": 963.6}, "curved": {"n": 208, "mm": 350.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [36.9, 172.1, 110.1, 255.7],
+   "w": 73.2,
+   "h": 83.6,
+   "from": "ring",
+   "words": ["300", "R1", "1/2w", "300", "R2", "1/2w", "300", "R3", "1/2w", "300", "R4", "1/2w"]
+  }
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [76.0, 220.2, 87.9, 227.2], "text": "300"},
+   {"mm": [61.7, 213.7, 90.0, 223.1], "text": "R1 1/2w"},
+   {"mm": [43.2, 204.2, 69.7, 213.3], "text": "300 R2"},
+   {"mm": [41.5, 200.4, 57.6, 207.3], "text": "1/2w"},
+   {"mm": [61.5, 190.0, 70.6, 196.5], "text": "R3"},
+   {"mm": [75.6, 193.2, 87.4, 199.7], "text": "300"},
+   {"mm": [73.8, 186.1, 90.0, 192.6], "text": "1/2w"},
+   {"mm": [43.6, 176.4, 70.6, 186.1], "text": "300 R4"},
+   {"mm": [41.0, 173.2, 57.2, 179.6], "text": "1/2w"},
+   {"mm": [298.4, 50.7, 324.7, 58.4], "text": "WBS"},
+   {"mm": [297.5, 28.3, 337.7, 35.7], "text": "OUTPUT SP"},
+   {"mm": [313.5, 20.5, 338.5, 27.5], "text": "COMpo"},
+   {"mm": [302.9, 7.6, 338.5, 16.0], "text": "14-066-C"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–338 mm across, 3–408 mm up",
+  "- **Outlines:** line 32 rings, 557 straight (1,224 mm) / 83 curved (134 mm); text 92 rings, 715 straight (964 mm) / 208 curved (351 mm)",
+  "- **Closed boxes:** 1; named: 300 R1 1/2w 300 R2 1/2w 300 R3 1/2w 300 ",
+  "- **Words (OCR):** 17 in 13 lines: 300 · R1 1/2w · 300 R2 · 1/2w · R3 · 300 · 1/2w · 300 R4 · 1/2w · WBS · OUTPUT SP · COMpo"
+ ]
+}

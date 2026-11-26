@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 43,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p43.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "43", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [19.6, 6.2, 338.7, 418.0],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 373, "mm": 801.6}, "curved": {"n": 72, "mm": 106.1}},
+  "text": {"rings": 312, "straight": {"n": 2544, "mm": 2937.3}, "curved": {"n": 705, "mm": 1185.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [182.4, 361.6, 206.2, 368.6], "text": "NOTES:"},
+   {"mm": [193.7, 348.7, 206.2, 355.2], "text": "ALL"},
+   {"mm": [209.9, 348.0, 291.2, 355.4], "text": "RESISTORS ARE 1/2w 57 _"},
+   {"mm": [193.7, 335.1, 250.4, 342.0], "text": "LAST COMPONENT"},
+   {"mm": [253.5, 334.6, 312.8, 341.6], "text": "DESIGNATION: R4 _"},
+   {"mm": [193.2, 321.7, 285.4, 328.6], "text": "SA1L-O66A USES COMPONENT"},
+   {"mm": [288.7, 321.7, 313.9, 328.6], "text": "LAYoUT"},
+   {"mm": [316.1, 322.3, 338.5, 328.8], "text": "B14-06E"},
+   {"mm": [247.6, 314.8, 338.5, 321.7], "text": "COMPONENT LAYOUT B14-06E"},
+   {"mm": [193.2, 315.2, 244.8, 321.7], "text": "SA14-0663 USES"},
+   {"mm": [193.7, 308.3, 226.0, 315.3], "text": "SA14-066C"},
+   {"mm": [229.3, 307.9, 337.7, 315.5], "text": "USES COMPONENT LAYOUT B14-06"},
+   {"mm": [132.3, 242.7, 139.5, 247.9], "text": "RI"},
+   {"mm": [131.1, 228.4, 142.3, 234.9], "text": "300"},
+   {"mm": [132.3, 221.1, 140.3, 226.4], "text": "R2"},
+   {"mm": [56.6, 211.6, 74.3, 218.1], "text": "FROM"},
+   {"mm": [131.7, 209.0, 143.1, 215.5], "text": "300"},
+   {"mm": [176.0, 209.9, 185.0, 216.3], "text": "To"},
+   {"mm": [187.8, 209.4, 221.3, 216.4], "text": "AMPHENOL"},
+   {"mm": [51.2, 205.1, 79.2, 211.6], "text": "SA14-101"},
+   {"mm": [52.9, 198.6, 78.2, 205.1], "text": "output"},
+   {"mm": [132.8, 200.8, 141.8, 207.3], "text": "R3"},
+   {"mm": [182.9, 202.9, 214.2, 209.4], "text": "26-159-16"},
+   {"mm": [180.3, 196.5, 217.4, 202.9], "text": "CONNECTOR"},
+   {"mm": [132.1, 189.6, 143.6, 196.0], "text": "300"},
+   {"mm": [133.0, 181.1, 141.0, 186.4], "text": "R4"},
+   {"mm": [131.7, 168.8, 143.1, 175.3], "text": "300"}
+  ]
+ },
+ "dots": [{"c": [291.4, 350.0], "r": 0.8, "lines": 0}, {"c": [88.8, 208.1], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–339 mm across, 6–418 mm up",
+  "- **Outlines:** line 24 rings, 373 straight (802 mm) / 72 curved (106 mm); text 312 rings, 2,544 straight (2,937 mm) / 705 curved (1,185 mm)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 39 in 27 lines: NOTES: · ALL · RESISTORS ARE 1/2w 57 _ · LAST COMPONENT · DESIGNATION: R4 _ · SA1L-O66A USES COMPONENT · LAYoUT · B14-06E · COMPONENT LAYOUT B14-06E · SA14-0663 USES · SA14-066C · USES COMPONENT LAYOUT B14-06"
+ ]
+}

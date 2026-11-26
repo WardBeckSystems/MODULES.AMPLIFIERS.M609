@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 309.4, 429.4],
+ "outlines": {
+  "line": {"rings": 40, "straight": {"n": 648, "mm": 2935.7}, "curved": {"n": 69, "mm": 106.4}},
+  "text": {"rings": 47, "straight": {"n": 413, "mm": 568.6}, "curved": {"n": 114, "mm": 182.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [31.7, 418.4, 148.3, 425.4], "text": "WAAD-BECK SYSTEMS LTD;"},
+   {"mm": [146.8, 239.2, 176.0, 246.2], "text": "SECTION"},
+   {"mm": [143.6, 225.6, 160.8, 232.1], "text": "MAIN"},
+   {"mm": [163.4, 225.6, 185.5, 232.6], "text": "FRAME"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–309 mm across, 0–429 mm up",
+  "- **Outlines:** line 40 rings, 648 straight (2,936 mm) / 69 curved (106 mm); text 47 rings, 413 straight (569 mm) / 114 curved (183 mm)",
+  "- **Words (OCR):** 5 in 4 lines: WAAD-BECK SYSTEMS LTD; · SECTION · MAIN · FRAME"
+ ]
+}

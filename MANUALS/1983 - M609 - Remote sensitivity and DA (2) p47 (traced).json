@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 47,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p47.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "47", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.3, 5.2, 337.7, 400.5],
+ "outlines": {
+  "line": {"rings": 89, "straight": {"n": 950, "mm": 1788.1}, "curved": {"n": 226, "mm": 389.9}},
+  "text": {"rings": 9, "straight": {"n": 52, "mm": 107.3}, "curved": {"n": 9, "mm": 21.0}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [79.0, 194.1, 152.9, 277.4], "w": 73.9, "h": 83.3, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–338 mm across, 5–400 mm up",
+  "- **Outlines:** line 89 rings, 950 straight (1,788 mm) / 226 curved (390 mm); text 9 rings, 52 straight (107 mm) / 9 curved (21.0 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 47,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p47.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "47", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.3, 5.2, 337.7, 400.5],
+ "outlines": {
+  "line": {"rings": 29, "straight": {"n": 461, "mm": 1090.1}, "curved": {"n": 54, "mm": 84.3}},
+  "text": {"rings": 48, "straight": {"n": 355, "mm": 418.3}, "curved": {"n": 133, "mm": 219.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [79.0, 194.1, 152.9, 277.4],
+   "w": 73.9,
+   "h": 83.3,
+   "from": "ring",
+   "words": ["300", "R1", "1/2w", "300", "R2", "1/2w", "300", "R3", "1/2w", "300", "R4", "1/2w"]
+  }
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [117.7, 269.4, 129.5, 275.9], "text": "300"},
+   {"mm": [102.6, 266.6, 111.2, 273.1], "text": "R1"},
+   {"mm": [115.5, 262.3, 132.1, 269.3], "text": "1/2w"},
+   {"mm": [85.3, 256.5, 97.2, 263.0], "text": "300"},
+   {"mm": [102.6, 253.0, 111.6, 259.5], "text": "R2"},
+   {"mm": [83.6, 248.7, 99.7, 255.7], "text": "1/2w"},
+   {"mm": [118.1, 242.2, 130.6, 249.2], "text": "300"},
+   {"mm": [103.6, 240.1, 112.7, 246.6], "text": "R3"},
+   {"mm": [115.9, 235.3, 132.1, 242.3], "text": "1/2w"},
+   {"mm": [85.7, 226.5, 113.1, 235.3], "text": "300 R4"},
+   {"mm": [83.6, 220.6, 99.1, 227.6], "text": "1/2w"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–338 mm across, 5–400 mm up",
+  "- **Outlines:** line 29 rings, 461 straight (1,090 mm) / 54 curved (84.3 mm); text 48 rings, 355 straight (418 mm) / 133 curved (220 mm)",
+  "- **Closed boxes:** 1; named: 300 R1 1/2w 300 R2 1/2w 300 R3 1/2w 300 ",
+  "- **Words (OCR):** 12 in 11 lines: 300 · R1 · 1/2w · 300 · R2 · 1/2w · 300 · R3 · 1/2w · 300 R4 · 1/2w"
+ ]
+}

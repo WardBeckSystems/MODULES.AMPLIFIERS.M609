@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 41,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p41.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "41", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 9.9, 313.7, 428.6],
+ "outlines": {
+  "line": {"rings": 91, "straight": {"n": 1238, "mm": 3640.2}, "curved": {"n": 223, "mm": 360.4}},
+  "text": {"rings": 65, "straight": {"n": 580, "mm": 707.8}, "curved": {"n": 167, "mm": 265.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [27.4, 415.6, 46.2, 421.6], "text": "WA~"},
+   {"mm": [88.1, 415.8, 108.4, 421.1], "text": "YSTE"},
+   {"mm": [70.4, 232.5, 178.8, 239.0], "text": "SAI~JVB/C OUTPUT SPl.I TTER"},
+   {"mm": [183.9, 232.5, 255.2, 239.0], "text": "NE TW~K ASSEMBL ES"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [225.4, 44.3, 276.8, 49.5], "text": "NOVEMBER 1985."},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–314 mm across, 10–429 mm up",
+  "- **Outlines:** line 91 rings, 1,238 straight (3,640 mm) / 223 curved (360 mm); text 65 rings, 580 straight (708 mm) / 167 curved (266 mm)",
+  "- **Words (OCR):** 16 in 9 lines: WA~ · YSTE · SAI~JVB/C OUTPUT SPl.I TTER · NE TW~K ASSEMBL ES · ps · BS · NOVEMBER 1985. · tp · ht"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p19.svg",
+ "sheet": {
+  "number": "B 609-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.7, 319.5, 411.5],
+ "outlines": {
+  "line": {"rings": 255, "straight": {"n": 4524, "mm": 7756.9}, "curved": {"n": 872, "mm": 1022.5}},
+  "text": {"rings": 259, "straight": {"n": 1642, "mm": 1684.5}, "curved": {"n": 428, "mm": 489.5}},
+  "tb": {"rings": 10, "straight": {"n": 165, "mm": 162.4}, "curved": {"n": 36, "mm": 44.4}}
+ },
+ "circles": [
+  {"c": [106.5, 143.0], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [84.2, 107.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [288.3, 28.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [6.3, 344.8, 15.8, 350.1], "text": "R12"},
+   {"mm": [11.2, 313.3, 49.9, 320.9], "text": "~R31"},
+   {"mm": [162.4, 149.2, 175.1, 154.5], "text": "R201"},
+   {"mm": [163.2, 81.4, 175.5, 86.7], "text": "F201"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [201.4, 55.3, 317.8, 64.4], "text": "(was] WARC-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [250.9, 47.1, 269.9, 52.6], "text": "M609"},
+   {"mm": [222.4, 40.6, 297.1, 46.1], "text": "REMOTE SENSITIVITY"},
+   {"mm": [204.0, 32.4, 316.9, 37.9], "text": "AUDIO DISTRIBUTION AMPLIFIER"},
+   {"mm": [253.0, 24.2, 299.7, 32.7], "text": "tp LAYOUT"},
+   {"mm": [220.6, 24.2, 268.4, 29.7], "text": "PERSPECTIVE"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [209.6, 12.5, 256.1, 18.0], "text": "609-06-002"},
+   {"mm": [300.7, 12.5, 311.8, 18.0], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [231.4, 47.8, 324.5, 69.5], "from": "title-block words (training set)", "text": ["ps", "(was] WARC-BECK SYSTEMS", "BS", "M609"]},
+ "dots": [{"c": [270.4, 35.5], "r": 1.3, "lines": 0}, {"c": [288.2, 28.4], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 609-06-002, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–320 mm across, 5–412 mm up",
+  "- **Outlines:** line 255 rings, 4,524 straight (7,757 mm) / 872 curved (1,022 mm); text 259 rings, 1,642 straight (1,684 mm) / 428 curved (490 mm); tb 10 rings, 165 straight (162 mm) / 36 curved (44.4 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 4.8 @ (106.5, 143.0), r 2.4 @ (84.2, 107.6), r 2.3 @ (288.3, 28.4)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 21 in 15 lines: R12 · ~R31 · R201 · F201 · ps · (was] WARC-BECK SYSTEMS · BS · M609 · REMOTE SENSITIVITY · AUDIO DISTRIBUTION AMPLIFIER · tp LAYOUT · PERSPECTIVE",
+  "- **Title block:** (231, 48)–(324, 70) mm: ps · (was] WARC-BECK SYSTEMS · BS · M609"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 42,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p42.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "42", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 325.8, 428.1],
+ "outlines": {
+  "line": {"rings": 151, "straight": {"n": 1807, "mm": 4883.8}, "curved": {"n": 326, "mm": 537.2}},
+  "text": {"rings": 233, "straight": {"n": 1563, "mm": 1778.5}, "curved": {"n": 428, "mm": 681.7}},
+  "tb": {"rings": 106, "straight": {"n": 819, "mm": 988.8}, "curved": {"n": 236, "mm": 377.6}}
+ },
+ "circles": [{"c": [147.7, 63.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [47.3, 415.6, 59.2, 421.1], "text": "t=lO"},
+   {"mm": [88.7, 415.6, 139.0, 421.1], "text": "SYSTEMS LT"},
+   {"mm": [76.6, 359.7, 257.1, 365.2], "text": "SAI 4-066A/8/C OUTPUT SPL TTER NETWORK ASSEMBLIE"},
+   {"mm": [74.9, 319.5, 118.3, 324.8], "text": "Res istor 1/2'\""},
+   {"mm": [139.3, 319.5, 148.3, 324.8], "text": "300"},
+   {"mm": [139.3, 305.7, 151.1, 313.9], "text": "ace"},
+   {"mm": [139.3, 295.6, 149.4, 307.6], "text": "'00"},
+   {"mm": [47.1, 66.9, 95.2, 72.4], "text": "WBS ..eo;onvne nd"},
+   {"mm": [107.5, 66.9, 138.4, 72.2], "text": "he se of"},
+   {"mm": [160.8, 66.9, 182.0, 72.2], "text": "cem ent"},
+   {"mm": [196.3, 66.9, 223.7, 72.2], "text": "-ts made"},
+   {"mm": [228.2, 66.9, 248.5, 72.4], "text": "by the"},
+   {"mm": [261.7, 66.9, 282.0, 72.2], "text": "eci fI ed"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [47.1, 60.2, 78.6, 65.5], "text": "man utac lu"},
+   {"mm": [98.2, 60.0, 124.4, 66.3], "text": "tor ont"},
+   {"mm": [146.8, 60.2, 172.9, 65.5], "text": "op timum"},
+   {"mm": [184.4, 60.2, 208.3, 65.5], "text": "uip nt"},
+   {"mm": [221.7, 54.0, 291.7, 65.5], "text": "..formance. BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"},
+   {"mm": [135.6, 20.3, 166.2, 25.8], "text": "SAI4_066A"}
+  ]
+ },
+ "title_block": {
+  "mm": [40.2, 58.3, 134.4, 429.7],
+  "from": "title-block words (training set)",
+  "text": ["t=lO", "SYSTEMS LT", "Res istor 1/2'\"", "WBS ..eo;onvne nd", "he se of", "man utac lu", "tor ont"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–326 mm across, 0–428 mm up",
+  "- **Outlines:** line 151 rings, 1,807 straight (4,884 mm) / 326 curved (537 mm); text 233 rings, 1,563 straight (1,778 mm) / 428 curved (682 mm); tb 106 rings, 819 straight (989 mm) / 236 curved (378 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (147.7, 63.1)",
+  "- **Words (OCR):** 46 in 22 lines: t=lO · SYSTEMS LT · SAI 4-066A/8/C OUTPUT SPL TTER NETWORK ASSEMBLIE · Res istor 1/2'\" · 300 · ace · '00 · WBS ..eo;onvne nd · he se of · cem ent · -ts made · by the",
+  "- **Title block:** (40, 58)–(134, 430) mm: t=lO · SYSTEMS LT · Res istor 1/2'\" · WBS ..eo;onvne nd · he se of · man utac lu · tor ont"
+ ]
+}

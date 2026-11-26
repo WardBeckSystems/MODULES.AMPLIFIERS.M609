@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 11.0, 324.7, 429.2],
+ "outlines": {
+  "line": {"rings": 330, "straight": {"n": 3522, "mm": 7164.9}, "curved": {"n": 743, "mm": 1169.5}},
+  "text": {"rings": 228, "straight": {"n": 1317, "mm": 1482.7}, "curved": {"n": 328, "mm": 531.2}}
+ },
+ "circles": [
+  {"c": [177.1, 363.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [167.9, 342.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [132.8, 329.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [208.8, 342.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [87.0, 329.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [116.1, 342.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [101.3, 329.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [181.4, 342.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 44,
+  "lines": [
+   {"mm": [29.8, 415.4, 47.5, 420.9], "text": "WAR"},
+   {"mm": [70.4, 415.4, 99.3, 420.9], "text": "CK SYS"},
+   {"mm": [127.6, 415.4, 141.0, 420.9], "text": "LTD"},
+   {"mm": [66.1, 359.7, 267.1, 365.0], "text": "101609 REMOTE SENSITIV ITY AUDIO DISTRI BUTION AMPLIF IER"},
+   {"mm": [40.2, 297.1, 55.1, 302.4], "text": "GAIN"},
+   {"mm": [39.3, 291.2, 57.2, 296.5], "text": "IN dB"},
+   {"mm": [101.5, 86.8, 269.7, 91.8], "text": "Wilh the remot <:01111\"'01 line open amplif Ier ga in"},
+   {"mm": [101.5, 80.1, 113.1, 85.1], "text": "will"},
+   {"mm": [118.5, 79.9, 196.9, 85.6], "text": "go 10 r_le,. Ihan -60"},
+   {"mm": [231.7, 80.1, 268.1, 85.1], "text": "Ihe <:0111.-01"},
+   {"mm": [101.5, 73.2, 125.4, 78.2], "text": "vollage"},
+   {"mm": [130.2, 73.0, 187.6, 79.0], "text": "see-ee.. ll 10 +16"},
+   {"mm": [199.9, 73.2, 215.3, 78.2], "text": "'0'011\""},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [168.0, 342.3], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–325 mm across, 11–429 mm up",
+  "- **Outlines:** line 330 rings, 3,522 straight (7,165 mm) / 743 curved (1,170 mm); text 228 rings, 1,317 straight (1,483 mm) / 328 curved (531 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 2.2 @ (177.1, 363.0), r 1.7 @ (167.9, 342.3), r 1.7 @ (132.8, 329.0), r 1.7 @ (208.8, 342.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 44 in 17 lines: WAR · CK SYS · LTD · 101609 REMOTE SENSITIV ITY AUDIO DISTRI BUTION AMPLIF IER · GAIN · IN dB · Wilh the remot <:01111\"'01 line open amplif Ier ga in · will · go 10 r_le,. Ihan -60 · Ihe <:0111.-01 · vollage · see-ee.. ll 10 +16"
+ ]
+}

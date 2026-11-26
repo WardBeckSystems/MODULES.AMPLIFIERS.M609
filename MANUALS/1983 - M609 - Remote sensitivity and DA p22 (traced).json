@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/cdf0d335a42c8cd4-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.5, 23.3, 307.9, 428.3],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 592, "mm": 2908.3}, "curved": {"n": 56, "mm": 84.8}},
+  "text": {"rings": 65, "straight": {"n": 608, "mm": 796.5}, "curved": {"n": 146, "mm": 247.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [32.4, 413.7, 148.3, 422.1], "text": "WAAD-BECK SySTEMS LTD;"},
+   {"mm": [150.7, 238.8, 179.2, 245.7], "text": "SECTION"},
+   {"mm": [118.7, 225.0, 221.3, 231.9], "text": "MODULES AND SUB-ASSEMBL IES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 23–428 mm up",
+  "- **Outlines:** line 35 rings, 592 straight (2,908 mm) / 56 curved (84.8 mm); text 65 rings, 608 straight (796 mm) / 146 curved (247 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK SySTEMS LTD; · SECTION · MODULES AND SUB-ASSEMBL IES"
+ ]
+}

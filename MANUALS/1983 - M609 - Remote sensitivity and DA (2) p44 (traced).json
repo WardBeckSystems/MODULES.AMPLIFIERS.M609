@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M609/MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+ "page": 44,
+ "version": 1,
+ "trace": "_traces/3ad51afb196ffedb-p44.svg",
+ "sheet": {
+  "number": "B14-066-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "44", "pages": "50"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 2.5, 337.9, 417.8],
+ "outlines": {
+  "line": {"rings": 129, "straight": {"n": 1140, "mm": 1329.8}, "curved": {"n": 273, "mm": 309.5}},
+  "text": {"rings": 371, "straight": {"n": 3379, "mm": 3670.8}, "curved": {"n": 1078, "mm": 1318.2}},
+  "tb": {"rings": 13, "straight": {"n": 186, "mm": 210.3}, "curved": {"n": 40, "mm": 54.6}}
+ },
+ "circles": [{"c": [296.9, 44.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 57,
+  "lines": [
+   {"mm": [43.0, 361.8, 65.0, 366.9], "text": "NOTES:"},
+   {"mm": [53.8, 348.2, 138.8, 353.3], "text": "ALL RESISTORS ARE 1/2W"},
+   {"mm": [58.1, 335.1, 109.7, 340.1], "text": "AST COMPONE NT"},
+   {"mm": [114.6, 334.9, 171.6, 340.1], "text": "DES I~NATION: R4"},
+   {"mm": [54.2, 321.7, 225.4, 326.7], "text": "SA1 066 USES COMPO NE NT LAYOU B14-066-06-002"},
+   {"mm": [54.2, 315.0, 169.3, 320.0], "text": "SA 14-066 USES COMP ONENT AYOU"},
+   {"mm": [182.4, 315.0, 227.3, 320.0], "text": "14- 066- 06-003."},
+   {"mm": [54.2, 308.1, 225.6, 313.1], "text": "SA14-066C USES COMP ONE NT LAYOUT BI4-066-06-004"},
+   {"mm": [36.3, 209.6, 79.9, 214.7], "text": "TO AMPHENOL"},
+   {"mm": [43.6, 202.9, 73.2, 208.0], "text": "26 -159- 16"},
+   {"mm": [41.0, 196.3, 76.9, 201.3], "text": "CONNECTOR"},
+   {"mm": [201.4, 62.6, 318.2, 71.0], "text": "[WElS] WARe-BEcK SYSTEMS"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [231.7, 48.4, 288.4, 53.9], "text": "SA 14-066A1B/C"},
+   {"mm": [206.0, 40.4, 313.3, 45.9], "text": "OUTPUT SPLITTER NETWORKS"},
+   {"mm": [240.9, 32.0, 279.4, 37.5], "text": "SCHEMATIC"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [211.4, 19.9, 267.7, 25.4], "text": "14-066 -02-002"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [305.1, 21.4, 322.1, 26.9], "text": "ISS.2"}
+  ]
+ },
+ "title_block": {"mm": [231.8, 54.9, 325.1, 76.6], "from": "title-block words (training set)", "text": ["[WElS] WARe-BEcK SYSTEMS", "ps"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B14-066-06-002, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 2–418 mm up",
+  "- **Outlines:** line 129 rings, 1,140 straight (1,330 mm) / 273 curved (310 mm); text 371 rings, 3,379 straight (3,671 mm) / 1,078 curved (1,318 mm); tb 13 rings, 186 straight (210 mm) / 40 curved (54.6 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (296.9, 44.9)",
+  "- **Words (OCR):** 57 in 21 lines: NOTES: · ALL RESISTORS ARE 1/2W · AST COMPONE NT · DES I~NATION: R4 · SA1 066 USES COMPO NE NT LAYOU B14-066-06-002 · SA 14-066 USES COMP ONENT AYOU · 14- 066- 06-003. · SA14-066C USES COMP ONE NT LAYOUT BI4-066-06-004 · TO AMPHENOL · 26 -159- 16 · CONNECTOR · [WElS] WARe-BEcK SYSTEMS",
+  "- **Title block:** (232, 55)–(325, 77) mm: [WElS] WARe-BEcK SYSTEMS · ps"
+ ]
+}
