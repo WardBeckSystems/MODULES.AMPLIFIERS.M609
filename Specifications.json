@@ -1,0 +1,82 @@
+{
+ "module": "M609",
+ "title": "M609 REMOTE SENSITIVITY AUDI0 DLSTRIBUT ION_AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1983 - M609 - P005 - 1-2.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number the input pair and the low termina number the output pair are phase."
+  },
+  {
+   "name": "Power requirement",
+   "key": "power_requirement",
+   "text": "115V AC +/-10%50/60 Hz, 25VA",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "V AC"
+    },
+    {
+     "value": 10,
+     "unit": "%",
+     "tolerance": true
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 25,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "50 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "wide (86 mm 3.4\" high mm 348 mm) deep",
+   "quantities": [
+    {
+     "value": 86,
+     "unit": "mm"
+    },
+    {
+     "value": 3.4,
+     "unit": "\""
+    },
+    {
+     "value": 348,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "oz. (1.70 Kg. net",
+   "quantities": [
+    {
+     "value": 1.7,
+     "unit": "Kg"
+    }
+   ]
+  }
+ ]
+}

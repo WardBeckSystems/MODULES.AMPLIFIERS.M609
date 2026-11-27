@@ -1,0 +1,164 @@
+{
+ "module": "M609",
+ "source": {
+  "file": "MANUALS/1983 - M609 - Remote sensitivity and DA (2).pdf",
+  "pages": [
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ]
+ },
+ "ocr_quality": 0.79,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "SA1i~_I01 AUDIO DiSTRIBUTION AMPLIFIER",
+    "Thea u d io input to the SA14_101 Amplifier Assembly \"ppe \"r,. a t pins t \"nd 2 of thea s semb ly conn ec to'. Rl, R2 \"nd R3 determine the input impedance of the actively balanced input. CRt through CR4 are limiting diOdes which protect the amplifier input from overloading voltage revets • Integrated circuit Ul and ATTl (M20 8) with their e es ccre re c components ma\" e up thea c t i v e l y balanced preamplifi er.",
+    "ATTI, the M208 volt age con trolled at tenuator, i, an e n caps u late dun it of WBS propri etory design.",
+    "R7 and C6, ·Ihe low frequency and high frequency differential adjust controlS, determine Ih e longitudinal balance b etw ~n the two prea mp l l fie r section s (UI and ATT1). The adJus lment of these components d \"l ermines the degree of rejection to common mode signal voltages, typically better than 50 dB overt h \" audio frequency band.",
+    "Th\" precision resistor n\"twO<\"\" R19 t h rough R25 determines the gain range of thea mp l i fie r. Ash u n t 5K ohm conl roil ing el emenl is eco o eer ee 10 pin 7 of Ih e assembly ccnoec rc e • Sh or lin g ou l this control poinl to the amplifier common will result in maximum gain. This maybe trimmed 10 +-30 dB by adj uSl l n g Gain Set control R23.",
+    "Selting the remote con lrolling element 10 5K ohm (norm ally fully ccw) r\"sults in thea mp l if ie r Slain going to minimum, which. Is _30 dB. If this control line is left open Ihe minimum gain will drop t o are es evalu e, typically by a t lea sl another 20 dB.",
+    "The Bias Set control R12;,~ factor y set for optimal performance. Should this control become inadvertently adj u s I\" d, II may e e, e t to its optimal point a s follows; Set Ihe amplifi \"r gain 10 unity (I.e. +-8 dBm input for +-8 dBm ou tPUI), r \"mov\" the inputs ig na land term ina t e thea mp l i fie r in 600 ohms. Ma \"i n g ana b s o lute output noi, e measure m\"n t (over a 20 Hz to 20.. Hz BW) adjust R1 2 for ana bsolu te output noise revet of -72 to _ 74 dBm (corresponding 10 an outp ul noise level o f 80 to 82 dB below +-8 dBm).",
+    "The output of ATTl is coupled to the pow \"r amp l i fie r output st.. g e",
+    "I hroughCl2.",
+    "SA14 _101 AUDIO DISTRIBUTION AMPLIFIER",
+    "The \" c l i v\"l y b \"l \"nced p o..... e,.. outputs t \" g e Is made UP oft.....o \" mp li f ' e,..s. In teg,..\" ted cf r-cult U2 along with Q l Ihr'\"Ough a s mak '\" up the low \",.. half of the pow e'\" oulp ul amp li f le '\" wh ll\", U3 along..... 111'1 0 6 th\",ough C l 0 makeup Ih e ucce rhalf.",
+    "The output capability 01 I h ls pow e,.. amp l i fie,.. Is in excess o f 2 1/2 W\" lI s \" n d \" p pea,..s a t pins 18 and 19 of I h e assembly coon e CIO,...",
+    "The output f,..om this \" mpHfle '\" d,..lv es the 600 ohm spllue,.. n e l wo,..k s located on the SAI4_066A/B /C assemblies.",
+    "Offs el \" d j u s l cont,..ols R31 \" nd R4 9 \",..e used to Ir'\"Im offset voltage err -: o,..s \" t thea mp l (f le,.. o ulput toe e r-c • These conn -eta,,\"'e set to give a n output DC offs e l vollage o f less than 50 mv when no audios i g ned Isp \"'e sent.",
+    "The powe '\" supply, Int eg,.. alto the SA14_101 assembly, d e,..lv e sIts AC vol l \"ge (appe a,.. l n get pins 21 and 22 oft h e assembly conneclor) from the external power transformer T20 1 mounted 00 tte c has sis of the M609.",
+    "Bridge rectifier CRS along..... ilh C3 1 and C32 rec ll fl es and fillers the AC vOIl\"ge providing a nominal +/_ 32 v o ll DC output. These vo ll \"ges drive the power oU lpu t s t\" geo f I h e SA14-10 1 d lrecll y, e awe l las app e\" rl n g lit connec lo r pins 15 and 16 forth e p u r pose of po.....erlng I h e e Xle rna l SA6_11 7 l rtdtc ato rDriver Assembly.",
+    "The +/ -32 volt DC voltages are fur the r decoupi ed and,..e gul a ted by U4 and US along.....I th C35 and C36. This provides p r ec ls o n +/ _18 voll DC \"'eg ul\" ted supply voltages 10 op e \"'ate Ih eIn t eg rated circuit amplifiers and the M206 remote e rt eoo a tcrof the SA14_101 Amplifier Assembly. The +/-16 volts should b e within +/ _0.25 volts of then o min a l value for correct operation oft h e amp l i fie r."
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "SA 14_ 101 AUDIO DISTRIBUTION AMPLIFIER"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "ct Cap ~dlo\" 220 uF / l0 V T390F227M01 0AS ca 220uF /l0V ca 22pF 2222 _638_10229::~~iS T3 90F227M010AS \"cs 220 uF /l 0 V 220 uF/ l0 V",
+    "C6 2_ 18 pF Philips 2222_ 8 09_ 0 50 0 3 cr 330pF 2222 -630-03331 ce 10 uF/25 V T390C l06M025AS C9 10 uF/25 Vcr 22 uF/35 V",
+    "CO, 10 uF/25 V eta 10 uF/25 V eta delete C \"p ~ciIO\" l OO pF Philips 22 22_638 _58 10 1",
+    "cts 12 p F 2222 _638 _10129",
+    "ere 4.7p F 2222 -638 -09478 ct z 15 p F 222 2 _638_10 159 ere 22 p F 2222_638_10 2 29 ct s 22 uF/35 V Ke met T39 0£226 M035AS ca 22pF Phillp s 2222_638 _10229",
+    "ca 0.0 2 2 u F/l00 V As elco CQ9 2_MC_ l00 _22 3M ca 33 u F/ l 0 V Kem e t T39003 36 M010 AS cal OO p F P h:,lips 2 222_6 38 _581 0 1 cz 12 p F 2222 -638-1012 9 cas 4.7 pF 2222-638-09478",
+    "C\" 15pF 2222_638 _10 159 C\" 47pF 2222-638-34479 C28 22 uF/35 V Kemel T39 0£2 26M035AS C29 22pF Philips 2222_638_10229 CJO 0.0 22 uF / l00 V e setec C09 2_MC_l00_223M",
+    "C\" 470 u F/40 V Ph,i,li ps",
+    "CJ2 470uF/ 40V",
+    "C3J 10 u F /25V T39 OC106 M025AS CJ< 10 u F / 25V",
+    "C28 22 uF / 25 V 22/~~ 85200",
+    "C28 22 uF/ 25 V",
+    "5,01, 1....,0, AUDIO DiSTRIBUTION AMPLIFIER"
+   ]
+  },
+  {
+   "heading": "MFC PART NUMBER",
+   "paragraphs": [
+    "C\", Diode F a i rch i l d",
+    "CR, B.id g eRect if le.",
+    "\"' Re \" ln\"IOr\" 1/4'11,,5S",
+    ".,R' T.-Im Pot 1/4'11 lS 121<1....R2S F",
+    "R' Re l l\" to/\" 1/4'11 I S"
+   ]
+  },
+  {
+   "heading": "1/4'11 IS",
+   "paragraphs": [
+    "PTl Oh (2.5)"
+   ]
+  },
+  {
+   "heading": "MR2S F",
+   "paragraphs": [
+    "R\" 1/4'11 5f. \"\""
+   ]
+  },
+  {
+   "heading": "R\" UK",
+   "paragraphs": [
+    "R\" T.- Im POI SK PTlOh 12.5) 51(.\" Re\" I: I O/\" 1/ 4'11..5S sro CR\""
+   ]
+  },
+  {
+   "heading": "R20 JI(J2",
+   "paragraphs": [
+    "R2J Trim Pot",
+    "41(75 500 P l her PTl Qh (2.5) SOO R\" Rel l,~tor 1/ 4 W,,' S 471(5 Philips MR25 F"
+   ]
+  },
+  {
+   "heading": "R26 1/ 4'11 5%",
+   "paragraphs": [
+    "Rn delete",
+    "R28 R \"\" I,~t o.-1/4 '11,,5% P h~,1 i ps"
+   ]
+  },
+  {
+   "heading": "ROO '.7",
+   "paragraphs": [
+    "5A14-IOl AUDIO DISTRIBUTION AMPLIFIER",
+    "DESCRIPTION MFG PART NUMBER",
+    "RJ ' Poten tiome ter 50' Plher F'Tl Oh (2.5) 501< R. sl,~tor 1! 4W\".5' F'h~.r iP5"
+   ]
+  },
+  {
+   "heading": "1! 4W \".5'",
+   "paragraphs": [
+    "Trim POI P iher F'TlOtl 12.5) 50K",
+    ", so Resistor 1! 4W 5' '\" Philips CR25",
+    "s se",
+    "ass 1!2W,,5' 2.2, sc a.z"
+   ]
+  },
+  {
+   "heading": "SA14_101 AUDIO DISTRIBUTION AMPLIFIER",
+   "paragraphs": [
+    "ae Re si stor-1/4W 1% JKJ2 Ph!}'P.,"
+   ]
+  },
+  {
+   "heading": "PN3569",
+   "paragraphs": [
+    "0' TIP298 0' T1P30B",
+    "002' PNJ569"
+   ]
+  },
+  {
+   "heading": "TN40J6",
+   "paragraphs": [
+    "0' PNJ569 0' TIP298"
+   ]
+  },
+  {
+   "heading": "2N3904",
+   "paragraphs": [
+    "U' Il1 te g,.... I ':',d CircUit Sign etics NE 5534N",
+    "National LM20lAN",
+    "U' lM J 17LZ U' lMJ37LZ"
+   ]
+  },
+  {
+   "heading": "DESCRIPTION",
+   "paragraphs": [
+    "Ul,U2, UJ B Pin Dip Socket Amp",
+    "04,05,09,"
+   ]
+  },
+  {
+   "heading": "A605_03 _022",
+   "paragraphs": [
+    "was re<:ornm.. n dst he USe of r epl \"c ement p e r-ts. made by the specified",
+    "manufacturers for continued optimum equipment p ede,.m\"nc\"."
+   ]
+  }
+ ]
+}
