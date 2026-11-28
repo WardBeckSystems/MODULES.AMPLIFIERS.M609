@@ -1,5 +1,5 @@
 # 1985 - M609 - P001 - Title Page.jpg
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1985 (found in this file: "MANUAL ISSUE #2 . NOVEMBER 1985")

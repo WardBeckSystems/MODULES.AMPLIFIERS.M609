@@ -1,5 +1,5 @@
 # 1983 - M609 - 14-066-06-003 - OUTPUT SPLITTER NETWORKS COMPONENT LAYOUT.jpg
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

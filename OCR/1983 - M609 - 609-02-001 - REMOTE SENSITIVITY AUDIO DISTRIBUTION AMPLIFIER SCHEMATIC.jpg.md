@@ -1,5 +1,5 @@
 # 1983 - M609 - 609-02-001 - REMOTE SENSITIVITY AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC.jpg
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

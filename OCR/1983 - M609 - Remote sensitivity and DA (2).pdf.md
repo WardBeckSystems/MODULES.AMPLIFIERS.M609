@@ -1,5 +1,5 @@
 # 1983 - M609 - Remote sensitivity and DA (2).pdf
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1983 (found in this file: "JUNE 1983")

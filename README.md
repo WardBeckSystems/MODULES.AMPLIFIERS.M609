@@ -1,6 +1,6 @@
 # M609 Remote Sensitivity Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M609, 1983|16. Wiki page: [M609 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M609.html)
+Ward-Beck Systems M609, 1983|16. Wiki page: [M609 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M609-Remote-Sensitivity-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

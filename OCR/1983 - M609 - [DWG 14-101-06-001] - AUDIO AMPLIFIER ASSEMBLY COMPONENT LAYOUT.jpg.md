@@ -1,5 +1,5 @@
 # 1983 - M609 - 14-101-06-001 - AUDIO AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

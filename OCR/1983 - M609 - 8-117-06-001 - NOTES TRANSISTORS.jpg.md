@@ -1,5 +1,5 @@
 # 1983 - M609 - 8-117-06-001 - NOTES TRANSISTORS.jpg
-Wiki page: [M609](../../../../PAGES/M609.md)
+Wiki page: [M609](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))
